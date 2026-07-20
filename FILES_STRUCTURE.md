@@ -1,17 +1,18 @@
 # ModRef archive — file organization
 
-This directory holds the papers and slides for every ModRef workshop, plus the
-searchable index served at <https://archive.modref.org/files/>.
+The papers and slides for every ModRef workshop live in `static/files/` and are
+served verbatim at <https://archive.modref.org/files/…>. The bare
+<https://archive.modref.org/files/> redirects to the searchable `/contributions`
+page. This file documents the naming scheme and tracks the papers we're still
+missing; the contributions list itself is `src/lib/data/papers.json`.
 
 ## Layout
 
 ```
-files/
-├── index.html              # searchable list (renders ModRefListSimp.md)
-├── ModRefListSimp.md        # the master list: Year | Authors | Title | Type, with links
-├── README.md                # this file
-├── papers/<year>/           # papers for that year
-└── slides/<year>/           # slides for that year
+static/files/
+├── index.html              # redirect to /contributions
+├── papers/<year>/          # papers for that year
+└── slides/<year>/          # slides for that year
 ```
 
 ## File naming
@@ -39,7 +40,8 @@ Rules:
 
 ## Missing papers
 
-Papers listed in `ModRefListSimp.md` for which we have **no file**. Update this
+Papers listed in the contributions data (`src/lib/data/papers.json`) for which we
+have **no file**. Update this
 table as files are recovered. Invited talks, panels, and posters are excluded, as
 they are not regular publications.
 

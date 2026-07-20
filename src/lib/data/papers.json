@@ -1,0 +1,1735 @@
+[
+	{
+		"year": 2026,
+		"title": "Reformulation in MaxSAT: Resolution Rules and Gadgets",
+		"authors": "Carlos Ansótegui",
+		"type": "Invited"
+	},
+	{
+		"year": 2026,
+		"title": "Defining Propagators in MiniZinc",
+		"authors": "Jip J. Dekker, Peter J. Stuckey, Guido Tack, Huu Quang Tran, Markus Wagner",
+		"type": "Paper",
+		"paper": "/files/papers/2026/ModRef2026-02-Defining-Propagators-in-MiniZinc.pdf"
+	},
+	{
+		"year": 2026,
+		"title": "Propagation Algorithms for the Minimum-Distance Constraint over Selected Points",
+		"authors": "Mikael Zayenz Lagerkvist",
+		"type": "Paper",
+		"paper": "/files/papers/2026/ModRef2026-03-Propagation-Algorithms-for-the-Minimum-Distance-Constraint-o.pdf"
+	},
+	{
+		"year": 2026,
+		"title": "Machine Learning-Based Generalization Queries for Constraint Acquisition",
+		"authors": "Dimos Tsouros, Senne Berden, Tias Guns",
+		"type": "Paper"
+	},
+	{
+		"year": 2026,
+		"title": "Paramita: An Extensible Framework for SATisfiability Solving",
+		"authors": "Josep Alòs, Carlos Ansótegui, Juan Luis Esteban, Eduard Torres",
+		"type": "Paper",
+		"paper": "/files/papers/2026/ModRef2026-05-Paramita-An-Extensible-Framework-for-SATisfiability-Solving.pdf"
+	},
+	{
+		"year": 2026,
+		"title": "An Interactive Application to Solve Sudoku Variant Puzzles",
+		"authors": "Helmut Simonis, Luis Quesada",
+		"type": "Paper",
+		"paper": "/files/papers/2026/ModRef2026-06-An-Interactive-Application-to-Solve-Sudoku-Variant-Puzzles.pdf"
+	},
+	{
+		"year": 2026,
+		"title": "Scaling Sudoku as a Constraint Problem",
+		"authors": "Mikael Zayenz Lagerkvist",
+		"type": "Paper",
+		"paper": "/files/papers/2026/ModRef2026-07-Scaling-Sudoku-as-a-Constraint-Problem.pdf"
+	},
+	{
+		"year": 2026,
+		"title": "Computing Gadgets",
+		"authors": "Josep Alòs, Carlos Ansótegui, Supratik Chakraborty, Eduard Torres",
+		"type": "Paper",
+		"paper": "/files/papers/2026/ModRef2026-08-Computing-Gadgets.pdf"
+	},
+	{
+		"year": 2026,
+		"title": "Towards Automated Generation of Benchmark Instances with Diverse Solver Performance",
+		"authors": "Tianchen Wu, Ian Miguel, Nguyen Dang",
+		"type": "Paper",
+		"paper": "/files/papers/2026/ModRef2026-09-Towards-Automated-Generation-of-Benchmark-Instances-with-Div.pdf"
+	},
+	{
+		"year": 2026,
+		"title": "Novel Pair- and Topic-Swapping",
+		"authors": "Frej Knutar Lewander, Jennifer Gross, María Andreína Francisco Rodríguez",
+		"type": "Paper",
+		"paper": "/files/papers/2026/ModRef2026-10-Novel-Pair-and-Topic-Swapping.pdf"
+	},
+	{
+		"year": 2026,
+		"title": "No More Awkward Silences with Table Talk Tuning",
+		"authors": "Martin Butler, Mikael Zayenz Lagerkvist",
+		"type": "Paper",
+		"paper": "/files/papers/2026/ModRef2026-11-No-More-Awkward-Silences-with-Table-Talk-Tuning.pdf"
+	},
+	{
+		"year": 2026,
+		"title": "A Simple Yet Efficient Lifted Formulation for Hard-to-Ground Planning Problems",
+		"authors": "Miquel Bofill, Cristina Borralleras, Josu Oca",
+		"type": "Paper",
+		"paper": "/files/papers/2026/ModRef2026-12-A-Simple-Yet-Efficient-Lifted-Formulation-for-Hard-to-Ground.pdf"
+	},
+	{
+		"year": 2026,
+		"title": "Solution Checking with CPMpy",
+		"authors": "Hendrik Bierlee, Tias Guns",
+		"type": "Paper",
+		"paper": "/files/papers/2026/ModRef2026-13-Solution-Checking-with-CPMpy.pdf"
+	},
+	{
+		"year": 2025,
+		"title": "Automated Reasoning in Discrete Geometry: Discovery, Verification, and Symmetry",
+		"authors": "Marijn Heule",
+		"type": "Invited",
+		"slides": "/files/slides/2025/ModRef2025-01-Automated-Reasoning-in-Discrete-Geometry-Discovery-Verificat.pdf"
+	},
+	{
+		"year": 2025,
+		"title": "STRIPS-2-DyPDL: Translating Automated Planning Problems into Domain-Independent Dynamic Programming Problems.",
+		"authors": "Dillon Ze Chen",
+		"type": "Paper",
+		"paper": "/files/papers/2025/ModRef2025-02-STRIPS-2-DyPDL-Translating-Automated-Planning-Problems-into.pdf"
+	},
+	{
+		"year": 2025,
+		"title": "Undefinedness in Planning with Arrays.",
+		"authors": "Carla Davesa Sureda, Joan Espasa, Ian Miguel, Mateu Villaret",
+		"type": "Paper",
+		"paper": "/files/papers/2025/ModRef2025-03-Undefinedness-in-Planning-with-Arrays.pdf"
+	},
+	{
+		"year": 2025,
+		"title": "Solver-Aided Expansion of Loops to Avoid Generate-and-Test.",
+		"authors": "Niklas Dewally, Özgür Akgün",
+		"type": "Paper",
+		"paper": "/files/papers/2025/ModRef2025-04-Solver-Aided-Expansion-of-Loops-to-Avoid-Generate-and-Test.pdf"
+	},
+	{
+		"year": 2025,
+		"title": "Mutual B refinements as a justification for constraints model reformulations.",
+		"authors": "Jean-Louis Dufour",
+		"type": "Paper",
+		"paper": "/files/papers/2025/ModRef2025-05-Mutual-B-refinements-as-a-justification-for-constraints-mode.pdf"
+	},
+	{
+		"year": 2025,
+		"title": "Modeling the p-Dispersion Problem with Distance Constraints.",
+		"authors": "Panteleimon Iosif, Nikolaos Ploskas, Kostas Stergiou, Dimos Tsouros",
+		"type": "Paper",
+		"paper": "/files/papers/2025/ModRef2025-06-Modeling-the-p-Dispersion-Problem-with-Distance-Constraints.pdf"
+	},
+	{
+		"year": 2025,
+		"title": "Declarative pearl: I put a SAT solver in your SAT solver so you can find backdoors slowly.",
+		"authors": "Martin Mariusz Lester",
+		"type": "Paper",
+		"paper": "/files/papers/2025/ModRef2025-07-Declarative-pearl-I-put-a-SAT-solver-in-your-SAT-solver-so-y.pdf"
+	},
+	{
+		"year": 2025,
+		"title": "Machine Learning Model for Selecting Assignments of Variables for SAT Problems.",
+		"authors": "Jonathan Benjamin Oliva Salinas, Peter Nightingale",
+		"type": "Paper",
+		"paper": "/files/papers/2025/ModRef2025-08-Machine-Learning-Model-for-Selecting-Assignments-of-Variable.pdf"
+	},
+	{
+		"year": 2025,
+		"title": "Evaluating the Impact of Encoding on SAT Based Constraint Solving in Exchequer.",
+		"authors": "Aadil Sattar, Martin Mariusz Lester",
+		"type": "Paper",
+		"paper": "/files/papers/2025/ModRef2025-09-Evaluating-the-Impact-of-Encoding-on-SAT-Based-Constraint-So.pdf"
+	},
+	{
+		"year": 2025,
+		"title": "Modeling the Inglenook Shunting Puzzle.",
+		"authors": "Helmut Simonis, Luis Quesada",
+		"type": "Paper",
+		"paper": "/files/papers/2025/ModRef2025-10-Modeling-the-Inglenook-Shunting-Puzzle.pdf"
+	},
+	{
+		"year": 2025,
+		"title": "Asymptotically Smaller Encodings for Graph Problems and Scheduling.",
+		"authors": "Bernardo Subercaseaux",
+		"type": "Paper",
+		"paper": "/files/papers/2025/ModRef2025-11-Asymptotically-Smaller-Encodings-for-Graph-Problems-and-Sche.pdf"
+	},
+	{
+		"year": 2025,
+		"title": "A new Constraint Programming model for the Multiple Constant Multiplication",
+		"authors": "Cantaloube Théo, XIAO PENG, Christine Solnon, Anastasia Volkova",
+		"type": "Paper",
+		"paper": "/files/papers/2025/ModRef2025-12-A-new-Constraint-Programming-model-for-the-Multiple-Constant.pdf"
+	},
+	{
+		"year": 2025,
+		"title": "Integer Linear Programming Techniques for Enhancing Branch and Bound MaxSAT Solvers",
+		"authors": "Jialu Zhang, Chu-Min Li, Sami Cherif, Shuolin Li, Zhifei Zheng",
+		"type": "Paper",
+		"paper": "/files/papers/2025/ModRef2025-13-Integer-Linear-Programming-Techniques-for-Enhancing-Branch-a.pdf"
+	},
+	{
+		"year": 2024,
+		"title": "From ModRef 2014 to ModRef 2024: Ten years of CP models for solving differential cryptanalysis problems",
+		"authors": "Christine Solnon",
+		"type": "Invited",
+		"slides": "/files/slides/2024/ModRef2024-01-From-ModRef-2014-to-ModRef-2024-Ten-years-of-CP-models-for-s.pdf"
+	},
+	{
+		"year": 2024,
+		"title": "Towards Understanding Differences Between Modelling Pipelines: a Modelers Perspective",
+		"authors": "Csobán Balogh, Ruth Hoffmann and Joan Espasa",
+		"type": "Paper",
+		"paper": "/files/papers/2024/ModRef2024-02-Towards-Understanding-Differences-Between-Modelling-Pipeline.pdf",
+		"slides": "/files/slides/2024/ModRef2024-02-Towards-Understanding-Differences-Between-Modelling-Pipeline.pdf"
+	},
+	{
+		"year": 2024,
+		"title": "MIN2SMT - A MINION to SMT-LIB2 Compiler",
+		"authors": "Stephan Frühwirt, Roxane Koitz-Hristov and Franz Wotawa",
+		"type": "Paper",
+		"paper": "/files/papers/2024/ModRef2024-03-MIN2SMT-A-MINION-to-SMT-LIB2-Compiler.pdf"
+	},
+	{
+		"year": 2024,
+		"title": "Cross-Paradigm Modelling: A Case Study of Puzznic",
+		"authors": "Joan Espasa Arxer, Ian Gent, Ian Miguel, Peter Nightingale, András Z. Salamon and Mateu Villaret",
+		"type": "Paper",
+		"paper": "/files/papers/2024/ModRef2024-04-Cross-Paradigm-Modelling-A-Case-Study-of-Puzznic.pdf"
+	},
+	{
+		"year": 2024,
+		"title": "Constrained Molecule Generation Modelled using the Grammar Constraint",
+		"authors": "David Saikali and Gilles Pesant",
+		"type": "Paper",
+		"paper": "/files/papers/2024/ModRef2024-05-Constrained-Molecule-Generation-Modelled-using-the-Grammar-C.pdf",
+		"slides": "/files/slides/2024/ModRef2024-05-Constrained-Molecule-Generation-Modelled-using-the-Grammar-C.pdf"
+	},
+	{
+		"year": 2024,
+		"title": "Approximating a Global Objective by Solving Repeated Sub-problems for an Oven Scheduling Problem",
+		"authors": "Helmut Simonis",
+		"type": "Paper",
+		"paper": "/files/papers/2024/ModRef2024-06-Approximating-a-Global-Objective-by-Solving-Repeated-Sub-pro.pdf"
+	},
+	{
+		"year": 2024,
+		"title": "Modelling Choices for the Roadef 2022 Challenge",
+		"authors": "Andrea Balogh, Sharmi Dev Gupta, Jheisson Argiro López Restrepo, Barry O'Sullivan, Helmut Simonis and Filipe Souza",
+		"type": "Paper",
+		"paper": "/files/papers/2024/ModRef2024-07-Modelling-Choices-for-the-Roadef-2022-Challenge.pdf"
+	},
+	{
+		"year": 2024,
+		"title": "Generalizing Learning-to-Prune for Constraint Programming",
+		"authors": "Deepak Ajwani, Peter Nightingale and Felix Ulrich-Oltean",
+		"type": "Paper",
+		"paper": "/files/papers/2024/ModRef2024-08-Generalizing-Learning-to-Prune-for-Constraint-Programming.pdf"
+	},
+	{
+		"year": 2024,
+		"title": "Towards High-Level Modelling in Automated Planning",
+		"authors": "Carla Davesa Sureda, Joan Espasa Arxer, Ian Miguel and Mateu Villaret Auselle",
+		"type": "Paper",
+		"paper": "/files/papers/2024/ModRef2024-09-Towards-High-Level-Modelling-in-Automated-Planning.pdf"
+	},
+	{
+		"year": 2024,
+		"title": "IndiCon: Selecting SAT Encodings for Individual Pseudo-Boolean and Linear Integer Constraints",
+		"authors": "Felix Ulrich-Oltean, Peter Nightingale and James Alfred Walker",
+		"type": "Paper",
+		"paper": "/files/papers/2024/ModRef2024-10-IndiCon-Selecting-SAT-Encodings-for-Individual-Pseudo-Boolea.pdf"
+	},
+	{
+		"year": 2024,
+		"title": "Constraint Models for Relaxed Klondike Variants",
+		"authors": "Nguyen Dang, Ian Gent, Peter Nightingale, Felix Ulrich-Oltean and Jack Waller",
+		"type": "Paper",
+		"paper": "/files/papers/2024/ModRef2024-11-Constraint-Models-for-Relaxed-Klondike-Variants.pdf",
+		"slides": "/files/slides/2024/ModRef2024-11-Constraint-Models-for-Relaxed-Klondike-Variants.pdf"
+	},
+	{
+		"year": 2024,
+		"title": "Automatic Feature Learning for Essence: a Case Study on Car Sequencing",
+		"authors": "Alessio Pellegrino, Özgür Akgün, Nguyen Dang, Zeynep Kiziltan and Ian Miguel",
+		"type": "Paper",
+		"paper": "/files/papers/2024/ModRef2024-12-Automatic-Feature-Learning-for-Essence-a-Case-Study-on-Car-S.pdf",
+		"slides": "/files/slides/2024/ModRef2024-12-Automatic-Feature-Learning-for-Essence-a-Case-Study-on-Car-S.pdf"
+	},
+	{
+		"year": 2024,
+		"title": "Efficient Modeling of Half-reified Global Constraints",
+		"authors": "Ignace Bleukx, Hélène Verhaeghe, Dimosthenis C. Tsouros and Tias Guns",
+		"type": "Paper",
+		"paper": "/files/papers/2024/ModRef2024-13-Efficient-Modeling-of-Half-reified-Global-Constraints.pdf",
+		"slides": "/files/slides/2024/ModRef2024-13-Efficient-Modeling-of-Half-reified-Global-Constraints.pdf"
+	},
+	{
+		"year": 2024,
+		"title": "Implementing Cumulative Functions for Conditional Task Intervals using a Generalized Cumulative Constraint (Extended Abstract)",
+		"authors": "Pierre Schaus, Roger Kameugne and Charles Thomas",
+		"type": "Paper",
+		"paper": "/files/papers/2024/ModRef2024-14-Implementing-Cumulative-Functions-for-Conditional-Task-Inter.pdf",
+		"slides": "/files/slides/2024/ModRef2024-14-Implementing-Cumulative-Functions-for-Conditional-Task-Inter.pdf"
+	},
+	{
+		"year": 2024,
+		"title": "A Schema-aware Logic Reformulation for Graph Reachability",
+		"authors": "Davide Di Pierro, Stephan Mennicke and Stefano Ferilli",
+		"type": "Paper",
+		"paper": "/files/papers/2024/ModRef2024-15-A-Schema-aware-Logic-Reformulation-for-Graph-Reachability.pdf"
+	},
+	{
+		"year": 2024,
+		"title": "Automated Nogood-Filtered Fine-Grained Streamlining: A Case Study on Covering Arrays",
+		"authors": "Orhan Yigit Yazicilar, Ozgur Akgun and Ian Miguel",
+		"type": "Paper",
+		"paper": "/files/papers/2024/ModRef2024-16-Automated-Nogood-Filtered-Fine-Grained-Streamlining-A-Case-S.pdf"
+	},
+	{
+		"year": 2024,
+		"title": "ManyWorlds: Combinatorial Programming with Functions",
+		"authors": "Jo Devriendt",
+		"type": "Paper",
+		"paper": "/files/papers/2024/ModRef2024-17-ManyWorlds-Combinatorial-Programming-with-Functions.pdf",
+		"slides": "/files/slides/2024/ModRef2024-17-ManyWorlds-Combinatorial-Programming-with-Functions.pdf"
+	},
+	{
+		"year": 2023,
+		"title": "Solving Complex Problems: Graphs, Constraints, and Machine Learning in Action",
+		"authors": "Hélène Verhaeghe",
+		"type": "Invited",
+		"slides": "/files/slides/2023/ModRef2023-01-Solving-Complex-Problems-Graphs-Constraints-and-Machine-Lear.pdf"
+	},
+	{
+		"year": 2023,
+		"title": "Breaking Constraint Modelling Languages with Metamorphic Testing (extended abstract)",
+		"authors": "Wout Vanroose, Ignace Bleukx, Jo Devriendt, Dimos Tsouros, Hélène Verhaeghe and Tias Guns",
+		"type": "Paper",
+		"paper": "/files/papers/2023/ModRef2023-02-Breaking-Constraint-Modelling-Languages-with-Metamorphic-Tes.pdf"
+	},
+	{
+		"year": 2023,
+		"title": "On Grid Graph Reachability and Puzzle Games",
+		"authors": "Miquel Bofill, Cristina Borralleras, Joan Espasa Arxer and Mateu Villaret",
+		"type": "Paper",
+		"paper": "/files/papers/2023/ModRef2023-03-On-Grid-Graph-Reachability-and-Puzzle-Games.pdf"
+	},
+	{
+		"year": 2023,
+		"title": "Things we underestimated while developing the CPMpy constraint modelling library",
+		"authors": "Tias Guns",
+		"type": "Paper",
+		"paper": "/files/papers/2023/ModRef2023-04-Things-we-underestimated-while-developing-the-CPMpy-constrai.pdf"
+	},
+	{
+		"year": 2023,
+		"title": "Towards Automatic Design of Factorio Blueprints",
+		"authors": "Sean Patterson, Joan Espasa, Mun See Chang and Ruth Hoffmann",
+		"type": "Paper",
+		"paper": "/files/papers/2023/ModRef2023-05-Towards-Automatic-Design-of-Factorio-Blueprints.pdf"
+	},
+	{
+		"year": 2023,
+		"title": "Symbolism for modelling, reformulations, and parallelism: MaxiCP-Modelling",
+		"authors": "Guillaume Derval and Damien Ernst",
+		"type": "Paper",
+		"paper": "/files/papers/2023/ModRef2023-06-Symbolism-for-modelling-reformulations-and-parallelism-MaxiC.pdf"
+	},
+	{
+		"year": 2023,
+		"title": "Towards a Model of Puzznic",
+		"authors": "Joan Espasa Arxer, Ian Gent, Ian Miguel, Peter Nightingale, András Z. Salamon and Mateu Villaret",
+		"type": "Paper",
+		"paper": "/files/papers/2023/ModRef2023-07-Towards-a-Model-of-Puzznic.pdf"
+	},
+	{
+		"year": 2023,
+		"title": "Solving the Identifying Code Set Problem with Grouped Independent Support (Extended Abstract)",
+		"authors": "Anna Latour, Arunabha Sen and Kuldeep Meel",
+		"type": "Paper",
+		"paper": "/files/papers/2023/ModRef2023-08-Solving-the-Identifying-Code-Set-Problem-with-Grouped-Indepe.pdf"
+	},
+	{
+		"year": 2022,
+		"title": "Constraint modelling and solving: Learning from observing people",
+		"authors": "Ruth Hoffmann",
+		"type": "Invited",
+		"slides": "/files/slides/2022/ModRef2022-01-Constraint-modelling-and-solving-Learning-from-observing-peo.pdf"
+	},
+	{
+		"year": 2022,
+		"title": "Solving XCSP3 constraint problems using tools from software verification",
+		"authors": "Martin Mariusz Lester",
+		"type": "Paper",
+		"paper": "/files/papers/2022/ModRef2022-02-Solving-XCSP3-constraint-problems-using-tools-from-software.pdf",
+		"slides": "/files/slides/2022/ModRef2022-02-Solving-XCSP3-constraint-problems-using-tools-from-software.pdf"
+	},
+	{
+		"year": 2022,
+		"title": "Constraint-based Part-of-Speech Tagging",
+		"authors": "Neng-Fa Zhou",
+		"type": "Paper",
+		"paper": "/files/papers/2022/ModRef2022-03-Constraint-based-Part-of-Speech-Tagging.pdf",
+		"slides": "/files/slides/2022/ModRef2022-03-Constraint-based-Part-of-Speech-Tagging.pdf"
+	},
+	{
+		"year": 2022,
+		"title": "A portfolio-based analysis method for competition results",
+		"authors": "Nguyen Dang",
+		"type": "Paper",
+		"paper": "/files/papers/2022/ModRef2022-04-A-portfolio-based-analysis-method-for-competition-results.pdf",
+		"slides": "/files/slides/2022/ModRef2022-04-A-portfolio-based-analysis-method-for-competition-results.pdf"
+	},
+	{
+		"year": 2022,
+		"title": "Efficiently Explaining CSPs with Unsatisfiable Subset Optimization",
+		"authors": "Emilio Gamba, Bart Bogaerts and Tias Guns",
+		"type": "Paper",
+		"paper": "/files/papers/2022/ModRef2022-05-Efficiently-Explaining-CSPs-with-Unsatisfiable-Subset-Optimi.pdf",
+		"slides": "/files/slides/2022/ModRef2022-05-Efficiently-Explaining-CSPs-with-Unsatisfiable-Subset-Optimi.pdf"
+	},
+	{
+		"year": 2022,
+		"title": "Automatic Generation of Dominance Breaking Nogoods for Constraint Optimization",
+		"authors": "Jimmy H. M. Lee and Allen Z. Zhong",
+		"type": "Paper",
+		"paper": "/files/papers/2022/ModRef2022-06-Automatic-Generation-of-Dominance-Breaking-Nogoods-for-Const.pdf",
+		"slides": "/files/slides/2022/ModRef2022-06-Automatic-Generation-of-Dominance-Breaking-Nogoods-for-Const.pdf"
+	},
+	{
+		"year": 2022,
+		"title": "A Constraint-Based Tool for Generating Benchmark Instances",
+		"authors": "Nguyen Dang",
+		"type": "Invited",
+		"slides": "/files/slides/2022/ModRef2022-07-A-Constraint-Based-Tool-for-Generating-Benchmark-Instances.pdf"
+	},
+	{
+		"year": 2021,
+		"title": "Answer-set Programming in a Nutshell",
+		"authors": "Torsten Schaub",
+		"type": "Invited"
+	},
+	{
+		"year": 2021,
+		"title": "Selecting SAT Encodings for Pseudo-Boolean and Linear Constraints: Preliminary Results",
+		"authors": "Felix Ulrich-Oltean, Peter Nightingale and James Alfred Walker",
+		"type": "Paper",
+		"paper": "/files/papers/2021/ModRef2021-02-Selecting-SAT-Encodings-for-Pseudo-Boolean-and-Linear-Constr.pdf"
+	},
+	{
+		"year": 2021,
+		"title": "Enumerated Types, Type Extensions and Defaults for MiniZinc",
+		"authors": "Peter J. Stuckey and Guido Tack",
+		"type": "Paper",
+		"paper": "/files/papers/2021/ModRef2021-03-Enumerated-Types-Type-Extensions-and-Defaults-for-MiniZinc.pdf"
+	},
+	{
+		"year": 2021,
+		"title": "Easy, adaptable and high-quality Modelling with Domain-Specific Constraint Patterns",
+		"authors": "Sophia Saller and Jana Koehler",
+		"type": "Paper",
+		"paper": "/files/papers/2021/ModRef2021-04-Easy-adaptable-and-high-quality-Modelling-with-Domain-Specif.pdf"
+	},
+	{
+		"year": 2021,
+		"title": "Predicate Logic as a Modelling Language: The IDP System",
+		"authors": "Bart Bogaerts",
+		"type": "Invited"
+	},
+	{
+		"year": 2021,
+		"title": "A preliminary Case Study of Planning With Complex Transitions: Plotting",
+		"authors": "Jordi Coll, Joan Espasa Arxer, Ian Miguel and Mateu Villaret",
+		"type": "Paper",
+		"paper": "/files/papers/2021/ModRef2021-06-A-preliminary-Case-Study-of-Planning-With-Complex-Transition.pdf"
+	},
+	{
+		"year": 2021,
+		"title": "Improved Filtering of Scheduling Problems using Redundant Table Constraints",
+		"authors": "Hélène Verhaeghe, Roger Kameugne, Christophe Lecoutre and Pierre Schaus",
+		"type": "Paper",
+		"paper": "/files/papers/2021/ModRef2021-07-Improved-Filtering-of-Scheduling-Problems-using-Redundant-Ta.pdf"
+	},
+	{
+		"year": 2021,
+		"title": "Towards Reformulating Essence Specifications for Robustness",
+		"authors": "Özgür Akgün, Alan M. Frisch, Ian P. Gent, Christopher Jefferson, Ian Miguel, Peter Nightingale and András Z. Salamon",
+		"type": "Paper",
+		"paper": "/files/papers/2021/ModRef2021-08-Towards-Reformulating-Essence-Specifications-for-Robustness.pdf"
+	},
+	{
+		"year": 2020,
+		"title": "Rethinking Model Reformulation: from Speed focused to Human focused",
+		"authors": "Maria Garcia de la Banda",
+		"type": "Invited"
+	},
+	{
+		"year": 2020,
+		"title": "Specifying Local Search Neighborhoods from a Constraint Satisfaction Problem Structure",
+		"authors": "Mateusz Ślażyński, Salvador Abreu and Grzegorz J. Nalepa",
+		"type": "Paper",
+		"paper": "/files/papers/2020/ModRef2020-02-Specifying-Local-Search-Neighborhoods-from-a-Constraint-Sati.pdf"
+	},
+	{
+		"year": 2020,
+		"title": "Half-checking propagators",
+		"authors": "Mikael Z. Lagerkvist and Magnus Rattfeldt",
+		"type": "Paper",
+		"paper": "/files/papers/2020/ModRef2020-03-Half-checking-propagators.pdf",
+		"slides": "/files/slides/2020/ModRef2020-03-Half-checking-propagators.pdf"
+	},
+	{
+		"year": 2020,
+		"title": "Efficient Incremental Modelling and Solving",
+		"authors": "Gökberk Koçak, Özgür Akgün, Nguyen Dang and Ian Miguel",
+		"type": "Paper",
+		"paper": "/files/papers/2020/ModRef2020-04-Efficient-Incremental-Modelling-and-Solving.pdf"
+	},
+	{
+		"year": 2020,
+		"title": "Deriving Optimal Multiplication-by-Constant Circuits With A SAT-based Constraint Engine",
+		"authors": "Vitaly Lagoon and Amit Metodi",
+		"type": "Paper",
+		"paper": "/files/papers/2020/ModRef2020-05-Deriving-Optimal-Multiplication-by-Constant-Circuits-With-A.pdf"
+	},
+	{
+		"year": 2020,
+		"title": "Efficient Exact Computation of Setwise Minimax Regret",
+		"authors": "Federico Toffano, Nic Wilson and Paolo Viappiani",
+		"type": "Paper",
+		"paper": "/files/papers/2020/ModRef2020-06-Efficient-Exact-Computation-of-Setwise-Minimax-Regret.pdf"
+	},
+	{
+		"year": 2020,
+		"title": "Exploring Instance Generation for Automated Planning",
+		"authors": "Özgür Akgün, Nguyen Dang, Joan Espasa, Ian Miguel, András Salamon and Christopher Stone",
+		"type": "Paper",
+		"paper": "/files/papers/2020/ModRef2020-07-Exploring-Instance-Generation-for-Automated-Planning.pdf",
+		"slides": "/files/slides/2020/ModRef2020-07-Exploring-Instance-Generation-for-Automated-Planning.pdf"
+	},
+	{
+		"year": 2020,
+		"title": "Hybrid Prediction and Constraint Solving",
+		"authors": "Tias Guns",
+		"type": "Invited"
+	},
+	{
+		"year": 2020,
+		"title": "A Constraint Programming Approach to Microplate Layout Design",
+		"authors": "Maria Andreina Francisco Rodriguez and Ola Spjuth",
+		"type": "Paper",
+		"paper": "/files/papers/2020/ModRef2020-09-A-Constraint-Programming-Approach-to-Microplate-Layout-Desig.pdf",
+		"slides": "/files/slides/2020/ModRef2020-09-A-Constraint-Programming-Approach-to-Microplate-Layout-Desig.pdf"
+	},
+	{
+		"year": 2020,
+		"title": "Modelling the Conference Paper Assignment Problem",
+		"authors": "Helmut Simonis, Simon de Givry, Thomas Schiex and Andreas Schutt",
+		"type": "Paper",
+		"paper": "/files/papers/2020/ModRef2020-10-Modelling-the-Conference-Paper-Assignment-Problem.pdf"
+	},
+	{
+		"year": 2020,
+		"title": "Towards Portfolios of Streamlined Constraint Models: A Case Study with the Balanced Academic Curriculum Problem",
+		"authors": "Patrick Spracklen, Nguyen Dang, Özgür Akgün and Ian Miguel",
+		"type": "Paper",
+		"paper": "/files/papers/2020/ModRef2020-11-Towards-Portfolios-of-Streamlined-Constraint-Models-A-Case-S.pdf"
+	},
+	{
+		"year": 2019,
+		"title": "State Representation and Polyomino Placement for the Game Patchwork",
+		"authors": "Mikael Zayenz Lagerkvist",
+		"type": "Paper",
+		"paper": "/files/papers/2019/ModRef2019-01-State-Representation-and-Polyomino-Placement-for-the-Game-Pa.pdf",
+		"slides": "/files/slides/2019/ModRef2019-01-State-Representation-and-Polyomino-Placement-for-the-Game-Pa.pdf"
+	},
+	{
+		"year": 2019,
+		"title": "Combinatorial Register Allocation and Instruction Scheduling",
+		"authors": "Christian Schulte",
+		"type": "Invited",
+		"slides": "/files/slides/2019/ModRef2019-02-Combinatorial-Register-Allocation-and-Instruction-Scheduling.pdf"
+	},
+	{
+		"year": 2019,
+		"title": "Modelling and Solving Online Optimisation Problems",
+		"authors": "Alexander Ek, Maria Garcia De La Banda, Andreas Schutt, Peter J. Stuckey and Guido Tack",
+		"type": "Paper",
+		"paper": "/files/papers/2019/ModRef2019-03-Modelling-and-Solving-Online-Optimisation-Problems.pdf"
+	},
+	{
+		"year": 2019,
+		"title": "Increasing modeling language convenience with a universal n-dimensional array, CPpy as python-embedded example",
+		"authors": "Tias Guns",
+		"type": "Paper",
+		"paper": "/files/papers/2019/ModRef2019-04-Increasing-modeling-language-convenience-with-a-universal-n.pdf",
+		"slides": "/files/slides/2019/ModRef2019-04-Increasing-modeling-language-convenience-with-a-universal-n.pdf"
+	},
+	{
+		"year": 2019,
+		"title": "Incremental Symmetry Breaking Constraints for Graph Search Problems",
+		"authors": "Avi Itzhakov and Michael Codish",
+		"type": "Paper",
+		"paper": "/files/papers/2019/ModRef2019-05-Incremental-Symmetry-Breaking-Constraints-for-Graph-Search-P.pdf"
+	},
+	{
+		"year": 2019,
+		"title": "In Pursuit of an Efficient SAT Encoding for the Hamiltonian Cycle Problem",
+		"authors": "Neng-Fa Zhou",
+		"type": "Paper",
+		"paper": "/files/papers/2019/ModRef2019-06-In-Pursuit-of-an-Efficient-SAT-Encoding-for-the-Hamiltonian.pdf"
+	},
+	{
+		"year": 2019,
+		"title": "In Search for a SAT-friendly Binarized Neural Network Architecture",
+		"authors": "Nina Narodytska",
+		"type": "Invited"
+	},
+	{
+		"year": 2019,
+		"title": "Towards Lifted Encodings for Numeric Planning in Essence Prime",
+		"authors": "Joan Espasa Arxer, Mateu Villaret, Ian Miguel and Jordi Coll",
+		"type": "Paper",
+		"paper": "/files/papers/2019/ModRef2019-08-Towards-Lifted-Encodings-for-Numeric-Planning-in-Essence-Pri.pdf"
+	},
+	{
+		"year": 2019,
+		"title": "Towards Improving Solution Dominance with Incomparability Conditions",
+		"authors": "Gökberk Koçak, Özgür Akgün, Tias Guns and Ian Miguel",
+		"type": "Paper",
+		"paper": "/files/papers/2019/ModRef2019-09-Towards-Improving-Solution-Dominance-with-Incomparability-Co.pdf"
+	},
+	{
+		"year": 2018,
+		"title": "Empirical Decision Model Learning",
+		"authors": "Michele Lombardi",
+		"type": "Invited",
+		"slides": "/files/slides/2018/ModRef2018-01-Empirical-Decision-Model-Learning.pdf"
+	},
+	{
+		"year": 2018,
+		"title": "Modelling Langford's Problem: A Viewpoint for Search",
+		"authors": "Özgür Akgün and Ian Miguel",
+		"type": "Paper",
+		"paper": "/files/papers/2018/ModRef2018-02-Modelling-Langford-s-Problem-A-Viewpoint-for-Search.pdf"
+	},
+	{
+		"year": 2018,
+		"title": "Memory Consistency Models using Constraints",
+		"authors": "Ruth Hoffmann, Özgür Akgün and Susmit Sarkar",
+		"type": "Paper",
+		"paper": "/files/papers/2018/ModRef2018-03-Memory-Consistency-Models-using-Constraints.pdf"
+	},
+	{
+		"year": 2018,
+		"title": "Demand-driven Delivery Staff Rostering",
+		"authors": "Andrea Rendl and Christina Burt",
+		"type": "Paper",
+		"paper": "/files/papers/2018/ModRef2018-04-Demand-driven-Delivery-Staff-Rostering.pdf",
+		"slides": "/files/slides/2018/ModRef2018-04-Demand-driven-Delivery-Staff-Rostering.pdf"
+	},
+	{
+		"year": 2018,
+		"title": "Considering Feedback Loops in Constraint Programming Methodology",
+		"authors": "Helmut Simonis",
+		"type": "Invited",
+		"slides": "/files/slides/2018/ModRef2018-05-Considering-Feedback-Loops-in-Constraint-Programming-Methodo.pdf"
+	},
+	{
+		"year": 2018,
+		"title": "A Transducer-Based Model for Representing Functional Constraints on Integer Sequences",
+		"authors": "Ekaterina Arafailova, Nicolas Beldiceanu, Mats Carlsson, Rémi Douence, María Andreína Francisco Rodríguez and Helmut Simonis",
+		"type": "Paper",
+		"paper": "/files/papers/2018/ModRef2018-06-A-Transducer-Based-Model-for-Representing-Functional-Constra.pdf",
+		"slides": "/files/slides/2018/ModRef2018-06-A-Transducer-Based-Model-for-Representing-Functional-Constra.pdf"
+	},
+	{
+		"year": 2018,
+		"title": "Solution Dominance over Constraint Satisfaction Problems",
+		"authors": "Tias Guns, Peter J. Stuckey and Guido Tack",
+		"type": "Paper",
+		"paper": "/files/papers/2018/ModRef2018-07-Solution-Dominance-over-Constraint-Satisfaction-Problems.pdf",
+		"slides": "/files/slides/2018/ModRef2018-07-Solution-Dominance-over-Constraint-Satisfaction-Problems.pdf"
+	},
+	{
+		"year": 2018,
+		"title": "Towards Solving Essence With Local Search: a Proof of Concept Using Sets and Multisets",
+		"authors": "Saad Attieh, Christopher Jefferson, Ian Miguel and Peter Nightingale",
+		"type": "Paper",
+		"paper": "/files/papers/2018/ModRef2018-08-Towards-Solving-Essence-With-Local-Search-a-Proof-of-Concept.pdf",
+		"slides": "/files/slides/2018/ModRef2018-08-Towards-Solving-Essence-With-Local-Search-a-Proof-of-Concept.pdf"
+	},
+	{
+		"year": 2018,
+		"title": "A Study of Evacuation Planning for Wildfires",
+		"authors": "Christian Artigues, Emmanuel Hebrard, Yannick Pencolé, Andreas Schutt and Peter J. Stuckey",
+		"type": "Paper",
+		"paper": "/files/papers/2018/ModRef2018-09-A-Study-of-Evacuation-Planning-for-Wildfires.pdf"
+	},
+	{
+		"year": 2017,
+		"title": "Ten Years of MiniZinc",
+		"authors": "Peter Stuckey",
+		"type": "Invited",
+		"slides": "/files/slides/2017/ModRef2017-01-Ten-Years-of-MiniZinc.pdf"
+	},
+	{
+		"year": 2017,
+		"title": "Priority Search with MiniZinc",
+		"authors": "Thibaut Feydy, Adrian Goldwaser, Andreas Schutt, Peter J. Stuckey and Kenneth Young",
+		"type": "Paper",
+		"paper": "/files/papers/2017/ModRef2017-02-Priority-Search-with-MiniZinc.pdf"
+	},
+	{
+		"year": 2017,
+		"title": "Modelling and Optimisation with Graphs",
+		"authors": "Jessica Enright, Christopher Jefferson, David Manlove, Ciaran McCreesh, Patrick Prosser, Simon Rogers and James Trimble",
+		"type": "Short",
+		"paper": "/files/papers/2017/ModRef2017-03-Modelling-and-Optimisation-with-Graphs.pdf"
+	},
+	{
+		"year": 2017,
+		"title": "A Logic-Based Benders Decomposition of an Assembly Line Balancing and Scheduling Problem",
+		"authors": "Kenneth Young",
+		"type": "Short",
+		"paper": "/files/papers/2017/ModRef2017-04-A-Logic-Based-Benders-Decomposition-of-an-Assembly-Line-Bala.pdf"
+	},
+	{
+		"year": 2017,
+		"title": "A Logical View of Constraint Modelling and Reformulation",
+		"authors": "David Mitchell",
+		"type": "Invited",
+		"paper": "/files/papers/2017/ModRef2017-05-A-Logical-View-of-Constraint-Modelling-and-Reformulation.pdf"
+	},
+	{
+		"year": 2017,
+		"title": "Solution Checking with MiniZinc",
+		"authors": "Carleton Coffrin, Siqi Liu, Peter J. Stuckey and Guido Tack",
+		"type": "Paper",
+		"paper": "/files/papers/2017/ModRef2017-06-Solution-Checking-with-MiniZinc.pdf"
+	},
+	{
+		"year": 2017,
+		"title": "Towards Compact SMT Encodings for Numeric Planning",
+		"authors": "Miquel Bofill",
+		"type": "Short"
+	},
+	{
+		"year": 2017,
+		"title": "A Constraint Programming Approach for Solving Multiple Traveling Salesman Problem",
+		"authors": "Masoumeh Vali and Khodakaram Salimifard",
+		"type": "Paper",
+		"paper": "/files/papers/2017/ModRef2017-08-A-Constraint-Programming-Approach-for-Solving-Multiple-Trave.pdf"
+	},
+	{
+		"year": 2016,
+		"title": "Debugging Unsatisfiable Constraint Models",
+		"authors": "K. Leo and G. Tack.",
+		"type": "Paper",
+		"paper": "/files/papers/2016/ModRef2016-01-Debugging-Unsatisfiable-Constraint-Models.pdf"
+	},
+	{
+		"year": 2016,
+		"title": "Encoding Object-oriented Models in MiniZinc",
+		"authors": "G. Schenner and R. Taupe",
+		"type": "Paper",
+		"paper": "/files/papers/2016/ModRef2016-02-Encoding-Object-oriented-Models-in-MiniZinc.pdf"
+	},
+	{
+		"year": 2016,
+		"title": "DNA Word Design: A New Constraint Model and New Results",
+		"authors": "M. Codish, M. Frank, and V. Lagoon",
+		"type": "Paper",
+		"paper": "/files/papers/2016/ModRef2016-03-DNA-Word-Design-A-New-Constraint-Model-and-New-Results.pdf"
+	},
+	{
+		"year": 2016,
+		"title": "Building efficient soft and cost MDD constraints",
+		"authors": "G. Perez and J.-C. Regin",
+		"type": "Paper",
+		"paper": "/files/papers/2016/ModRef2016-04-Building-efficient-soft-and-cost-MDD-constraints.pdf"
+	},
+	{
+		"year": 2016,
+		"title": "CP4DL: Constraint-based Reasoning for Expressive Description Logics",
+		"authors": "W. Sawangphol, Y.-F. Li, and G. Tack",
+		"type": "Paper",
+		"paper": "/files/papers/2016/ModRef2016-05-CP4DL-Constraint-based-Reasoning-for-Expressive-Description.pdf"
+	},
+	{
+		"year": 2016,
+		"title": "A Distributed Constraint Reasoning Approach Towards Intelligent Marketplace Environment",
+		"authors": "Z. Erraji1, A. Hakkou1, A. Benamrane, I. Benelallam, and El H. Bouyakhf",
+		"type": "Paper",
+		"paper": "/files/papers/2016/ModRef2016-06-A-Distributed-Constraint-Reasoning-Approach-Towards-Intellig.pdf"
+	},
+	{
+		"year": 2016,
+		"title": "Constraint Problem Specification as Compression",
+		"authors": "S. D. Prestwich, S. A. Tarim, and R. Rossi",
+		"type": "Paper",
+		"paper": "/files/papers/2016/ModRef2016-07-Constraint-Problem-Specification-as-Compression.pdf"
+	},
+	{
+		"year": 2016,
+		"title": "Reformulation of Drivers’ Fixed Path Constraints in Ridesharing Problems",
+		"authors": "V. Armant and K. N. Brown",
+		"type": "Paper",
+		"paper": "/files/papers/2016/ModRef2016-08-Reformulation-of-Drivers-Fixed-Path-Constraints-in-Rideshari.pdf"
+	},
+	{
+		"year": 2015,
+		"title": "Feasibility of Building Better Traincrew Rosters with Complete Solvers",
+		"authors": "Alan Frisch and Miquel Palahí",
+		"type": "Paper"
+	},
+	{
+		"year": 2015,
+		"title": "Back-to-Back Testing a Soft Constraint Model for a Smart Exhibition Space",
+		"authors": "Alexander Schiendorfer, Benedikt Eberhardinger, Michael Wißner, Wolfgang Reif and Elisabeth André",
+		"type": "Paper"
+	},
+	{
+		"year": 2015,
+		"title": "Automatic solver chaining in MiningZinc",
+		"authors": "Tias Guns, Anton Dries, Guido Tack, Siegfried Nijssen and Luc De Raedt",
+		"type": "Paper"
+	},
+	{
+		"year": 2015,
+		"title": "Complex Clustering Using Constraint Programming: Modelling Electoral Map Creation",
+		"authors": "Lars Kotthoff, Barry O'Sullivan, S. S. Ravi and Ian Davidson",
+		"type": "Paper"
+	},
+	{
+		"year": 2015,
+		"title": "Updated Linearization Library for MiniZinc 2.0",
+		"authors": "Gleb Belov, Guido Tack and Mark Wallace",
+		"type": "Paper"
+	},
+	{
+		"year": 2015,
+		"title": "Transforming Constraint Programs to Input for Local Search",
+		"authors": "Jo Devriendt, Patrick De Causmaecker and Marc Denecker",
+		"type": "Paper"
+	},
+	{
+		"year": 2015,
+		"title": "Modeling and Solving Code Generation for Real",
+		"authors": "Christian Schulte",
+		"type": "Invited"
+	},
+	{
+		"year": 2015,
+		"title": "Towards Automatic Dominance Detection in Constraint Optimisation Problems",
+		"authors": "Chris Mears",
+		"type": "Invited"
+	},
+	{
+		"year": 2014,
+		"title": "Front matter: foreword, programme committee, table of contents",
+		"authors": "—",
+		"type": "Front matter",
+		"paper": "/files/papers/2014/ModRef2014-00-Front-Matter.pdf"
+	},
+	{
+		"year": 2014,
+		"title": "Solving a Symmetric Key Cryptographic Problem with Constraint Programming",
+		"authors": "Marine Minier, Christine Solnon and Julia Reboul",
+		"type": "Paper",
+		"paper": "/files/papers/2014/ModRef2014-01-Solving-a-Symmetric-Key-Cryptographic-Problem-with-Constrain.pdf"
+	},
+	{
+		"year": 2014,
+		"title": "Distraining: Modeling Trainings in Faculty of Medicine and Pharmacy of Casablanca as Constraint Satisfaction Problem",
+		"authors": "Benamrane Amine, Yosra Acodad, Benelallam Imade, El Houssine Bouyakhf, Mohammed Bennani Othmani",
+		"type": "Paper",
+		"paper": "/files/papers/2014/ModRef2014-02-Distraining-Modeling-Trainings-in-Faculty-of-Medicine-and-Ph.pdf"
+	},
+	{
+		"year": 2014,
+		"title": "Towards Automatic Dominance Breaking",
+		"authors": "Christopher Mears and Maria Garcia de La Banda",
+		"type": "Paper",
+		"paper": "/files/papers/2014/ModRef2014-03-Towards-Automatic-Dominance-Breaking.pdf"
+	},
+	{
+		"year": 2014,
+		"title": "Modelling RTP-based Residential Load Scheduling for Demand Response in Smart Grids",
+		"authors": "Shan He, Ariel Liebman, Andrea Rendl, Mark Wallace and Campbell Wilson",
+		"type": "Paper",
+		"paper": "/files/papers/2014/ModRef2014-04-Modelling-RTP-based-Residential-Load-Scheduling-for-Demand-R.pdf"
+	},
+	{
+		"year": 2014,
+		"title": "Rethinking the Quest for Declarativity",
+		"authors": "Kathryn Francis",
+		"type": "Paper",
+		"paper": "/files/papers/2014/ModRef2014-05-Rethinking-the-Quest-for-Declarativity.pdf"
+	},
+	{
+		"year": 2014,
+		"title": "Efficient SMT Encodings for the Petrobras Domain",
+		"authors": "Miquel Bofill, Joan Espasa and Mateu Villaret",
+		"type": "Paper",
+		"paper": "/files/papers/2014/ModRef2014-06-Efficient-SMT-Encodings-for-the-Petrobras-Domain.pdf"
+	},
+	{
+		"year": 2014,
+		"title": "Encoding The Lexicographic Ordering Constraint in SAT Modulo Theories",
+		"authors": "Hani Elgabou and Alan Frisch",
+		"type": "Paper",
+		"paper": "/files/papers/2014/ModRef2014-07-Encoding-The-Lexicographic-Ordering-Constraint-in-SAT-Modulo.pdf"
+	},
+	{
+		"year": 2014,
+		"title": "Anomalies in SMT Solving: Difficulties in Modelling Combinatorial Problems",
+		"authors": "Miquel Palahí and Alan Frisch",
+		"type": "Paper",
+		"paper": "/files/papers/2014/ModRef2014-08-Anomalies-in-SMT-Solving-Difficulties-in-Modelling-Combinato.pdf"
+	},
+	{
+		"year": 2013,
+		"title": "Front matter: foreword, programme committee, table of contents",
+		"authors": "—",
+		"type": "Front matter",
+		"paper": "/files/papers/2013/ModRef2013-00-Front-Matter.pdf"
+	},
+	{
+		"year": 2013,
+		"title": "On SAT-Encodings of the At-Most-One Constraint",
+		"authors": "Steffen Hoelldobler and Van Hau Nguyen",
+		"type": "Paper",
+		"paper": "/files/papers/2013/ModRef2013-01-On-SAT-Encodings-of-the-At-Most-One-Constraint.pdf"
+	},
+	{
+		"year": 2013,
+		"title": "Table Constraints in Clause Learning CSP Solvers",
+		"authors": "Ozan Erdem, George Katsirelos and Fahiem Bacchus",
+		"type": "Paper",
+		"paper": "/files/papers/2013/ModRef2013-02-Table-Constraints-in-Clause-Learning-CSP-Solvers.pdf"
+	},
+	{
+		"year": 2013,
+		"title": "Finite Type Extensions in Constraint Programming",
+		"authors": "Rafael Caballero, Peter Stuckey and Antonio Tenorio Fornés",
+		"type": "Paper",
+		"paper": "/files/papers/2013/ModRef2013-03-Finite-Type-Extensions-in-Constraint-Programming.pdf"
+	},
+	{
+		"year": 2013,
+		"title": "Constraint Models for the Container Pre-Marshaling Problem",
+		"authors": "Andrea Rendl and Matthias Prandtstetter",
+		"type": "Paper",
+		"paper": "/files/papers/2013/ModRef2013-04-Constraint-Models-for-the-Container-Pre-Marshaling-Problem.pdf"
+	},
+	{
+		"year": 2013,
+		"title": "Boosting Weighted CSP Resolution with Shared BDDs",
+		"authors": "Miquel Bofill, Miquel Palahí, Josep Suy and Mateu Villaret",
+		"type": "Paper",
+		"paper": "/files/papers/2013/ModRef2013-05-Boosting-Weighted-CSP-Resolution-with-Shared-BDDs.pdf"
+	},
+	{
+		"year": 2013,
+		"title": "Improving the Maintenance Planning of Heavy Trucks using Constraint Programming",
+		"authors": "Tony Lindgren, Håkan Warnquist and Martin Eineborg",
+		"type": "Paper",
+		"paper": "/files/papers/2013/ModRef2013-06-Improving-the-Maintenance-Planning-of-Heavy-Trucks-using-Con.pdf"
+	},
+	{
+		"year": 2013,
+		"title": "Modeling Distributed Information: Send+More=Money",
+		"authors": "Andres F. Barco, Jean-Guillaume Fages, Elise Vareilles, Michel Aldanondo, Paul Gaborit",
+		"type": "Paper",
+		"paper": "/files/papers/2013/ModRef2013-07-Modeling-Distributed-Information-Send-More-Money.pdf"
+	},
+	{
+		"year": 2012,
+		"title": "Symmetry Declarations for MiniZinc",
+		"authors": "Geoffrey Chu and Peter Stuckey",
+		"type": "Paper"
+	},
+	{
+		"year": 2012,
+		"title": "MiniZinc with Functions",
+		"authors": "Peter Stuckey and Guido Tack",
+		"type": "Paper"
+	},
+	{
+		"year": 2012,
+		"title": "Dual Encoding from Applications into Quantified Boolean Formulas",
+		"authors": "Allen Van Gelder",
+		"type": "Paper"
+	},
+	{
+		"year": 2012,
+		"title": "The AtMostSeqCard Revisited",
+		"authors": "Nina Narodytska and Toby Walsh",
+		"type": "Paper"
+	},
+	{
+		"year": 2012,
+		"title": "Finding Synchronization Codes to Boost Compression by Substring Enumeration",
+		"authors": "Dany Vohl, Claude-Guy Quimper and Danny Dubé",
+		"type": "Paper"
+	},
+	{
+		"year": 2012,
+		"title": "DFA-based formulation for constraint negation",
+		"authors": "Nadjib Lazaar, Noureddine Aribi, Arnaud Gotlieb and Lebbah Yahia",
+		"type": "Paper"
+	},
+	{
+		"year": 2012,
+		"title": "CDF-Intervals Revisited",
+		"authors": "Aya Saad, Carmen Gervet and Thom Fruehwirth",
+		"type": "Paper"
+	},
+	{
+		"year": 2011,
+		"title": "Dispensable Instantiations",
+		"authors": "Eugene Freuder",
+		"type": "Paper",
+		"paper": "/files/papers/2011/ModRef2011-04-Dispensable-Instantiations.pdf"
+	},
+	{
+		"year": 2011,
+		"title": "Consistency of Constraint Networks Induced by Automaton-Based Constraint Specification",
+		"authors": "Maria Andreina Francisco Rodriguez, Pierre Flener and Justin Pearson",
+		"type": "Paper"
+	},
+	{
+		"year": 2011,
+		"title": "A Proposal for Solving Weighted CSP with SMT",
+		"authors": "Carlos Ansotegui, Miquel Bofill, Miquel Palahi, Josep Suy and Mateu Villaret",
+		"type": "Paper",
+		"paper": "/files/papers/2011/ModRef2011-01-A-Proposal-for-Solving-Weighted-CSPs-with-SMT.pdf"
+	},
+	{
+		"year": 2011,
+		"title": "Modelling System Administration Problems with CSPs",
+		"authors": "John Hewson and Paul Anderson",
+		"type": "Paper",
+		"paper": "/files/papers/2011/ModRef2011-05-Modelling-System-Administration-Problems-with-CSPs.pdf"
+	},
+	{
+		"year": 2011,
+		"title": "A Decade of Research on Constraint Modelling and Reformulation: The Quest for Abstraction and Automation",
+		"authors": "Alan Frisch",
+		"type": "Invited",
+		"slides": "/files/slides/2011/ModRef2011-A-Decade-of-Research-on-Constraint-Modelling-and-Reformulation.pdf"
+	},
+	{
+		"year": 2011,
+		"title": "Using the Global Constraint Seeker for Learning Structured Constraint Models: a First Attempt",
+		"authors": "Nicolas Beldiceanu and Helmut Simonis",
+		"type": "Paper"
+	},
+	{
+		"year": 2011,
+		"title": "A Reformulation Strategy for Multi-Dimensional CSPs: A Case Study for the SET Game",
+		"authors": "Amanda Swearngin, Berthe Y. Choueiry and Eugene C. Freuder",
+		"type": "Paper"
+	},
+	{
+		"year": 2011,
+		"title": "Directions of CP Modelling and Reformulation in the Context of Extended Solver Representations",
+		"authors": "Panelists: Stefan Heinz, Michela Milano, Peter Stuckey, Willem-Jan van Hoeve Moderation: Helmut Simonis",
+		"type": "Panel"
+	},
+	{
+		"year": 2011,
+		"title": "Knowledge Compilation with Empowerment",
+		"authors": "Lucas Bordeaux and Joao Marques-Silva",
+		"type": "Paper",
+		"paper": "/files/papers/2011/ModRef2011-03-Knowledge-Compilation-with-Empowerment.pdf"
+	},
+	{
+		"year": 2011,
+		"title": "Filtering and Counting for the Spread and Deviation Constraints",
+		"authors": "Gilles Pesant",
+		"type": "Paper"
+	},
+	{
+		"year": 2011,
+		"title": "Combining Set Variable Representations",
+		"authors": "Christian Bessiere, Zeynep Kiziltan and Toby Walsh",
+		"type": "Paper",
+		"paper": "/files/papers/2011/ModRef2011-02-Combining-Set-Variable-Representations.pdf"
+	},
+	{
+		"year": 2011,
+		"title": "Improving the Expressiveness of Table Constraints",
+		"authors": "Jean-Charles Regin",
+		"type": "Paper"
+	},
+	{
+		"year": 2011,
+		"title": "Global Matrix Constraints",
+		"authors": "George Katsirelos, Nina Narodytska, Claude-Guy Quimper and Toby Walsh",
+		"type": "Paper"
+	},
+	{
+		"year": 2010,
+		"title": "Data Independent Type Reduction for Zinc",
+		"authors": "Leslie De Koninck, Sebastian Brand and Peter Stuckey",
+		"type": "Paper",
+		"paper": "/files/papers/2010/ModRef2010-01-Data-Independent-Type-Reduction-for-Zinc.pdf"
+	},
+	{
+		"year": 2010,
+		"title": "Conjure Revisited: Towards Automated Constraint Modelling",
+		"authors": "Ozgur Akgun, Alan Frisch, Brahim Hnich, Chris Jefferson and Ian Miguel",
+		"type": "Papers",
+		"paper": "/files/papers/2010/ModRef2010-02-Conjure-Revisited-Towards-Automated-Constraint-Modelling.pdf",
+		"slides": "/files/slides/2010/ModRef2010-02-Conjure-Revisited-Towards-Automated-Constraint-Modelling.pdf"
+	},
+	{
+		"year": 2010,
+		"title": "Expressive Models for Monadic Constraint Programming",
+		"authors": "Pieter Wuille and Tom Schrijvers",
+		"type": "Papers",
+		"paper": "/files/papers/2010/ModRef2010-03-Expressive-Models-for-Monadic-Constraint-Programming.pdf",
+		"slides": "/files/slides/2010/ModRef2010-03-Expressive-Models-for-Monadic-Constraint-Programming.pdf"
+	},
+	{
+		"year": 2010,
+		"title": "Combination: Automated Generation of Puzzles with Constraints",
+		"authors": "Christopher Jefferson, Wendy Moncur and Karen E. Petrie",
+		"type": "Paper",
+		"paper": "/files/papers/2010/ModRef2010-04-Combination-Automated-Generation-of-Puzzles-with-Constraints.pdf"
+	},
+	{
+		"year": 2010,
+		"title": "Optimising Quantified Expressions in Constraint Models",
+		"authors": "Ian P. Gent, Ian Miguel and Andrea Rendl",
+		"type": "Paper",
+		"paper": "/files/papers/2010/ModRef2010-05-Optimising-Quantified-Expressions-in-Constraint-Models.pdf",
+		"slides": "/files/slides/2010/ModRef2010-05-Optimising-Quantified-Expressions-in-Constraint-Models.pdf"
+	},
+	{
+		"year": 2010,
+		"title": "Constraint solving on modular integers",
+		"authors": "Arnaud Gotlieb, Michel Leconte and Bruno Marre",
+		"type": "Paper",
+		"paper": "/files/papers/2010/ModRef2010-06-Constraint-solving-on-modular-integers.pdf",
+		"slides": "/files/slides/2010/ModRef2010-06-Constraint-solving-on-modular-integers.pdf"
+	},
+	{
+		"year": 2010,
+		"title": "Triangle Packing with Constraint Programming",
+		"authors": "Patrick Prosser",
+		"type": "Paper",
+		"paper": "/files/papers/2010/ModRef2010-07-Triangle-Packing-with-Constraint-Programming.pdf"
+	},
+	{
+		"year": 2010,
+		"title": "Proving Symmetries by Model Transformation",
+		"authors": "Christopher Mears and Todd Niven",
+		"type": "Paper",
+		"paper": "/files/papers/2010/ModRef2010-08-Proving-Symmetries-by-Model-Transformation.pdf",
+		"slides": "/files/slides/2010/ModRef2010-08-Proving-Symmetries-by-Model-Transformation.pdf"
+	},
+	{
+		"year": 2010,
+		"title": "A Resource Cost Aware Cumulative",
+		"authors": "Helmut Simonis and Tarik Hadzic",
+		"type": "Paper",
+		"paper": "/files/papers/2010/ModRef2010-09-A-Resource-Cost-Aware-Cumulative.pdf",
+		"slides": "/files/slides/2010/ModRef2010-09-A-Resource-Cost-Aware-Cumulative.pdf"
+	},
+	{
+		"year": 2010,
+		"title": "Modelling a Maintenance Scheduling Problem with Alternative Resources",
+		"authors": "Aliaa Badr, Arnaud Malapert and Ken Brown",
+		"type": "Paper",
+		"paper": "/files/papers/2010/ModRef2010-10-Modelling-a-Maintenance-Scheduling-Problem-with-Alternative.pdf",
+		"slides": "/files/slides/2010/ModRef2010-10-Modelling-a-Maintenance-Scheduling-Problem-with-Alternative.pdf"
+	},
+	{
+		"year": 2010,
+		"title": "A New SAT Encoding of the At-Most-One Constraint",
+		"authors": "Jingchao Chen",
+		"type": "Paper",
+		"paper": "/files/papers/2010/ModRef2010-11-A-New-SAT-Encoding-of-the-At-Most-One-Constraint.pdf"
+	},
+	{
+		"year": 2010,
+		"title": "Towards a Compact and Efficient SAT-encoding of Finite Linear CSP",
+		"authors": "Tomoya Tanjo, Naoyuki Tamura and Mutsunori Banbara",
+		"type": "Paper",
+		"paper": "/files/papers/2010/ModRef2010-12-Towards-a-Compact-and-Efficient-SAT-encoding-of-Finite-Linea.pdf",
+		"slides": "/files/slides/2010/ModRef2010-12-Towards-a-Compact-and-Efficient-SAT-encoding-of-Finite-Linea.pdf"
+	},
+	{
+		"year": 2010,
+		"title": "SAT Encodings of the At-Most-k Constraint",
+		"authors": "Alan M. Frisch and Paul A. Giannoros",
+		"type": "Paper",
+		"paper": "/files/papers/2010/ModRef2010-13-SAT-Encodings-of-the-At-Most-k-Constraint.pdf"
+	},
+	{
+		"year": 2010,
+		"title": "Synthesis of Search Algorithms from High-level CP Models",
+		"authors": "Samir A. Mohamed Elsayed and Laurent Michel",
+		"type": "Paper",
+		"paper": "/files/papers/2010/ModRef2010-14-Synthesis-of-Search-Algorithms-from-High-level-CP-Models.pdf",
+		"slides": "/files/slides/2010/ModRef2010-14-Synthesis-of-Search-Algorithms-from-High-level-CP-Models.pdf"
+	},
+	{
+		"year": 2010,
+		"title": "Towards a Lightweight Standard Search Language",
+		"authors": "Horst Samulowitz, Guido Tack, Julien Fischer, Mark Wallace and Peter Stuckey",
+		"type": "Paper",
+		"paper": "/files/papers/2010/ModRef2010-15-Towards-a-Lightweight-Standard-Search-Language.pdf",
+		"slides": "/files/slides/2010/ModRef2010-15-Towards-a-Lightweight-Standard-Search-Language.pdf"
+	},
+	{
+		"year": 2010,
+		"title": "Energy-Efficient Task-Mapping for Data-Driven Sensor Network Macroprogramming Using Constraint Programming",
+		"authors": "Farshid Hassani Bijarbooneh, Pierre Flener, Edith Ngai and Justin Pearson",
+		"type": "Papers",
+		"paper": "/files/papers/2010/ModRef2010-16-Energy-Efficient-Task-Mapping-for-Data-Driven-Sensor-Network.pdf"
+	},
+	{
+		"year": 2009,
+		"title": "Lessons Learned from Modelling the NHL Playoff Qualification Problem",
+		"authors": "Tyrel Russell, Peter van Beek",
+		"type": "Paper"
+	},
+	{
+		"year": 2009,
+		"title": "Markov Logic as a Modelling Language for Weighted Constraint Satisfaction Problems",
+		"authors": "Dominik Jain, Paul Maier, Gregor Wylezich",
+		"type": "Paper"
+	},
+	{
+		"year": 2009,
+		"title": "Tractable Benchmarks",
+		"authors": "Justyna Petke, Peter Jeavons",
+		"type": "Paper"
+	},
+	{
+		"year": 2009,
+		"title": "The Utility of Tractable Benchmarks",
+		"authors": "Peter Jeavons, Helmut Simonis, Ian Gent",
+		"type": "Panel Discussion"
+	},
+	{
+		"year": 2009,
+		"title": "Debugging Constraint Models with Metamodels and Metaknowledge",
+		"authors": "Eugene C. Freuder, Richard J. Wallace, Tomas E. Nordlander",
+		"type": "Paper"
+	},
+	{
+		"year": 2009,
+		"title": "Preprocessing in Pseudo-Boolean Optimization: An Experimental Evaluation",
+		"authors": "Ruben Martins, Ines Lynce, Vasco Manquinho",
+		"type": "Paper"
+	},
+	{
+		"year": 2009,
+		"title": "SIMPLY: a Compiler from a CSP Modeling Language to the SMT-LIB Format",
+		"authors": "Miquel Bofill, Miquel Palahi, Josep Suy, Mateu Villaret",
+		"type": "Paper"
+	},
+	{
+		"year": 2009,
+		"title": "Comparing Dual Viewpoints in Permutation Problems",
+		"authors": "Barbara M. Smith",
+		"type": "Paper"
+	},
+	{
+		"year": 2009,
+		"title": "The Evolving World of MiniZinc",
+		"authors": "Peter J. Stuckey, Ralph Becket, Sebastian Brand, Mark Brown, Thibaut Feydy, Julien Fischer, Maria Garcia de la Banda, Kim Marriott, Mark Wallace",
+		"type": "Paper"
+	},
+	{
+		"year": 2009,
+		"title": "Extending Soft Arc Consistency Algorithms to Non-Invertible Semirings with an Application to Multi-Criteria Problems",
+		"authors": "Stefano Bistarelli, Fabio Gadducci, Javier Larrosa, Emma Rollon, Francesco Santini",
+		"type": "Paper"
+	},
+	{
+		"year": 2009,
+		"title": "Monadic Constraint Programming with Gecode",
+		"authors": "Pieter Wuille, Tom Schrijvers",
+		"type": "Paper"
+	},
+	{
+		"year": 2008,
+		"title": "The Connection of Local Search and Learning (LSCS'08)",
+		"authors": "Meinolf Sellmann",
+		"type": "Invited"
+	},
+	{
+		"year": 2008,
+		"title": "The Many Roads Leading to Rome: Solving Zinc Models by Various Solvers (ModRef'08)",
+		"authors": "Ralph Becket, Sebastian Brand, Mark Brown, Gregory J. Duck, Thibaut Feydy, Julien Fischer, Jinbo Huang, Kim Marriott, Nicholas Nethercote, Jakob Puchinger, Reza Rafeh, Peter J. Stuckey, and Mark G. Wallace",
+		"type": "Paper",
+		"paper": "/files/papers/2008/ModRef2008-02-The-Many-Roads-Leading-to-Rome-Solving-Zinc-Models-by-Variou.pdf"
+	},
+	{
+		"year": 2008,
+		"title": "Automatically Detecting Neighbourhood Constraint Interactions using Comet (LSCS'08)",
+		"authors": "Alastair Andrew and John Levine",
+		"type": "Paper"
+	},
+	{
+		"year": 2008,
+		"title": "Constructive vs Perturbative Local Search for General Integer Linear Programming (LSCS'08)",
+		"authors": "Stefania Verachi and Steven Prestwich",
+		"type": "Paper"
+	},
+	{
+		"year": 2008,
+		"title": "A Versatile Intermediate Language for Answer Set Programming (NMR'08)",
+		"authors": "Martin Gebser, Tomi Janhunen, Max Ostrowski, Torsten Schaub, and Sven Thiele",
+		"type": "Paper"
+	},
+	{
+		"year": 2008,
+		"title": "Efficient Propagation of Disjunctive Constraints using Watched Literals (ModRef'08)",
+		"authors": "Christopher Jefferson and Karen E. Petrie",
+		"type": "Paper",
+		"paper": "/files/papers/2008/ModRef2008-06-Efficient-Propagation-of-Disjunctive-Constraints-using-Watch.pdf"
+	},
+	{
+		"year": 2008,
+		"title": "Generalizing Backdoors (LSCS'08)",
+		"authors": "Roberto Rossi, Steven Prestwich, S. Armagan Tarim, and Brahim Hnich",
+		"type": "Paper"
+	},
+	{
+		"year": 2008,
+		"title": "Kakuro as a Constraint Problem (ModRef'08)",
+		"authors": "Helmut Simonis",
+		"type": "Paper",
+		"paper": "/files/papers/2008/ModRef2008-08-Kakuro-as-a-Constraint-Problem-ModRef-08.pdf"
+	},
+	{
+		"year": 2007,
+		"title": "Trials and Tribulations of Designing a Modelling Language",
+		"authors": "Peter J. Stuckey",
+		"type": "Invited"
+	},
+	{
+		"year": 2007,
+		"title": "GRASPER: A framework for graph CSPs",
+		"authors": "Ruben Duarte Viegas and Francisco Azevedo",
+		"type": "Paper",
+		"paper": "/files/papers/2007/ModRef2007-02-GRASPER-A-framework-for-graph-CSPs.pdf"
+	},
+	{
+		"year": 2007,
+		"title": "Crossword Grid Composition with a Hierarchical CSP Encoding",
+		"authors": "Adi Botea",
+		"type": "Paper",
+		"paper": "/files/papers/2007/ModRef2007-03-Crossword-Grid-Composition-with-a-Hierarchical-CSP-Encoding.pdf"
+	},
+	{
+		"year": 2007,
+		"title": "Exploiting Problem Data to Enrich Models of Constraint Problems",
+		"authors": "Martin Michalowski, Craig A. Knoblock, and Berthe Y. Choueiry",
+		"type": "Paper",
+		"paper": "/files/papers/2007/ModRef2007-04-Exploiting-Problem-Data-to-Enrich-Models-of-Constraint-Probl.pdf"
+	},
+	{
+		"year": 2007,
+		"title": "A Rule-based System for Model Transformation",
+		"authors": "Sebastian Brand, Gregory J. Duck, Jakob Puchinger, and Peter J. Stuckey",
+		"type": "Paper",
+		"paper": "/files/papers/2007/ModRef2007-05-A-Rule-based-System-for-Model-Transformation.pdf"
+	},
+	{
+		"year": 2007,
+		"title": "A Soft COP Model for Goal Deliberation in a BDI Agent",
+		"authors": "John Thangarajah, James Harland, and Neil Yorke-Smith",
+		"type": "Paper",
+		"paper": "/files/papers/2007/ModRef2007-06-A-Soft-COP-Model-for-Goal-Deliberation-in-a-BDI-Agent.pdf"
+	},
+	{
+		"year": 2007,
+		"title": "On the Expressive Power of Essence",
+		"authors": "David G. Mitchell and Eugenia Ternovska",
+		"type": "Paper",
+		"paper": "/files/papers/2007/ModRef2007-07-On-the-Expressive-Power-of-Essence.pdf"
+	},
+	{
+		"year": 2007,
+		"title": "Two Set-Constraints for Modeling and Efficiency",
+		"authors": "Willem-Jan van Hoeve and Ashish Sabharwal",
+		"type": "Paper",
+		"paper": "/files/papers/2007/ModRef2007-08-Two-Set-Constraints-for-Modeling-and-Efficiency.pdf"
+	},
+	{
+		"year": 2006,
+		"title": "Improved Models for Graceful Graphs",
+		"authors": "Puget, Smith",
+		"type": "Paper"
+	},
+	{
+		"year": 2006,
+		"title": "Mining Historical Data to Build Constraint Viewpoints",
+		"authors": "Bessiere, Quinqueton, Raymond",
+		"type": "Paper"
+	},
+	{
+		"year": 2006,
+		"title": "Generalizing Global Constraints Based on Network Flows",
+		"authors": "Razgon, O'Sullivan, Provan",
+		"type": "Paper"
+	},
+	{
+		"year": 2006,
+		"title": "Why ESSENCE? Frequently Asked Questions About a New Language for Specifying Combinatorial Problems",
+		"authors": "Frisch, Grum, Jefferson, Martinez-Hernandez, Miguel",
+		"type": "Paper"
+	},
+	{
+		"year": 2006,
+		"title": "Strategic Constraint Satisfaction Problems",
+		"authors": "Bessiere, Verger",
+		"type": "Paper"
+	},
+	{
+		"year": 2006,
+		"title": "Exploring the Canopy of Constraint Modelling Languages",
+		"authors": "Soto, Granvilliers",
+		"type": "Paper"
+	},
+	{
+		"year": 2006,
+		"title": "The Automatic Generation of Redundant Representations and Channelling Constraints",
+		"authors": "Martinez-Hernandez, Frisch",
+		"type": "Paper"
+	},
+	{
+		"year": 2006,
+		"title": "Consistency Reasoning for Removing Constraints and Clauses",
+		"authors": "Prestwich",
+		"type": "Paper"
+	},
+	{
+		"year": 2005,
+		"title": "Front matter: foreword, programme committee, table of contents",
+		"authors": "—",
+		"type": "Front matter",
+		"paper": "/files/papers/2005/ModRef2005-00-Front-Matter.pdf"
+	},
+	{
+		"year": 2005,
+		"title": "Increasing Solution Density by Dominated Relaxation",
+		"authors": "S. Prestwich",
+		"type": "Paper",
+		"paper": "/files/papers/2005/ModRef2005-01-Increasing-Solution-Density-by-Dominated-Relaxation.pdf"
+	},
+	{
+		"year": 2005,
+		"title": "Sudoku as a Constraint Problem",
+		"authors": "Helmut Simonis",
+		"type": "Paper",
+		"paper": "/files/papers/2005/ModRef2005-02-Sudoku-as-a-Constraint-Problem.pdf"
+	},
+	{
+		"year": 2005,
+		"title": "A Constraint Programming Approach to the Hospitals / Residents Problem",
+		"authors": "David F. Manlove, Gregg O’Malley, Patrick Prosser, and Chris Unsworth",
+		"type": "Paper",
+		"paper": "/files/papers/2005/ModRef2005-03-A-Constraint-Programming-Approach-to-the-Hospitals-Residents.pdf"
+	},
+	{
+		"year": 2005,
+		"title": "Optimization Models for Generating Graduation Roadmaps",
+		"authors": "A. Dechter and R. Dechter",
+		"type": "Paper",
+		"paper": "/files/papers/2005/ModRef2005-04-Optimization-Models-for-Generating-Graduation-Roadmaps.pdf"
+	},
+	{
+		"year": 2005,
+		"title": "Models for a variable-sized bin packing problem",
+		"authors": "Diego Olivier Fernandez Pons",
+		"type": "Paper",
+		"paper": "/files/papers/2005/ModRef2005-05-Models-for-a-variable-sized-bin-packing-problem.pdf"
+	},
+	{
+		"year": 2005,
+		"title": "The Essence of Essence: A Constraint Language for Specifying Combinatorial Problems",
+		"authors": "Alan M. Frisch, Matthew Grum, Chris Jeferson, Bernadette Martinez Hernandez, and Ian Miguel",
+		"type": "Paper",
+		"paper": "/files/papers/2005/ModRef2005-06-The-Essence-of-Essence-A-Constraint-Language-for-Specifying.pdf"
+	},
+	{
+		"year": 2005,
+		"title": "The Systematic Generation of Channelling Constraints",
+		"authors": "Bernadette Martinez Hernandez and Alan M. Frisch",
+		"type": "Paper",
+		"paper": "/files/papers/2005/ModRef2005-07-The-Systematic-Generation-of-Channelling-Constraints.pdf"
+	},
+	{
+		"year": 2005,
+		"title": "Representations of Sets and Multisets in Constraint Programming",
+		"authors": "Christopher Jefferson and Alan M. Frisch",
+		"type": "Paper",
+		"paper": "/files/papers/2005/ModRef2005-08-Representations-of-Sets-and-Multisets-in-Constraint-Programm.pdf"
+	},
+	{
+		"year": 2004,
+		"title": "Front matter: foreword, programme committee, table of contents",
+		"authors": "—",
+		"type": "Front matter",
+		"paper": "/files/papers/2004/ModRef2004-00-Front-Matter.pdf"
+	},
+	{
+		"year": 2004,
+		"title": "Formulations and Reformulations in Integer Programming",
+		"authors": "M. Trick",
+		"type": "Invited",
+		"paper": "/files/papers/2004/ModRef2004-01-Formulations-and-Reformulations-in-Integer-Programming.pdf"
+	},
+	{
+		"year": 2004,
+		"title": "Using a Theorem Prover for Reasoning on Constraint Problems",
+		"authors": "M. Cadoli, T. Mancini.",
+		"type": "Paper",
+		"paper": "/files/papers/2004/ModRef2004-02-Using-a-Theorem-Prover-for-Reasoning-on-Constraint-Problems.pdf"
+	},
+	{
+		"year": 2004,
+		"title": "Exploiting Functional Dependencies in Declarative Problem Specifications",
+		"authors": "M. Cadoli, T. Mancini.",
+		"type": "Paper",
+		"paper": "/files/papers/2004/ModRef2004-03-Exploiting-Functional-Dependencies-in-Declarative-Problem-Sp.pdf"
+	},
+	{
+		"year": 2004,
+		"title": "On Infinite CSPs",
+		"authors": "S. Dantchev, F.D. Valencia.",
+		"type": "Paper",
+		"paper": "/files/papers/2004/ModRef2004-04-On-Infinite-CSPs.pdf"
+	},
+	{
+		"year": 2004,
+		"title": "Tools for Modeling and Solving Search Problems",
+		"authors": "Deborah East, Miroslaw Truszczynski",
+		"type": "Paper",
+		"paper": "/files/papers/2004/ModRef2004-05-Tools-for-Modeling-and-Solving-Search-Problems.pdf"
+	},
+	{
+		"year": 2004,
+		"title": "The Rules of Modelling: Towards Automatic Generation of Constraint Programs",
+		"authors": "A.M. Frisch, C. Jefferson, B. Martinez-Hernandez, I. Miguel.",
+		"type": "Paper",
+		"paper": "/files/papers/2004/ModRef2004-06-The-Rules-of-Modelling-Towards-Automatic-Generation-of-Const.pdf"
+	},
+	{
+		"year": 2004,
+		"title": "A New Encoding of AllDifferent into SAT",
+		"authors": "P. Nightingale, I. Gent.",
+		"type": "Paper",
+		"paper": "/files/papers/2004/ModRef2004-07-A-New-Encoding-of-AllDifferent-into-SAT.pdf"
+	},
+	{
+		"year": 2004,
+		"title": "A Compact Reformulation of Propositional Satisfiability as Binary Constraint Satisfaction",
+		"authors": "M. Jarvisalo, I. Niemela.",
+		"type": "Paper",
+		"paper": "/files/papers/2004/ModRef2004-08-A-Compact-Reformulation-of-Propositional-Satisfiability-as-B.pdf"
+	},
+	{
+		"year": 2004,
+		"title": "On the Effectiveness of Set and Multiset Representations in Constraint Satisfaction",
+		"authors": "Christopher Jefferson, Alan M. Frisch",
+		"type": "Paper",
+		"paper": "/files/papers/2004/ModRef2004-09-On-the-Effectiveness-of-Set-and-Multiset-Representations-in.pdf"
+	},
+	{
+		"year": 2004,
+		"title": "Tight and Tractable Reformulations for Uncertain CSPs",
+		"authors": "N. Yorke-Smith, C. Gervet",
+		"type": "Paper",
+		"paper": "/files/papers/2004/ModRef2004-10-Tight-and-Tractable-Reformulations-for-Uncertain-CSPs.pdf"
+	},
+	{
+		"year": 2003,
+		"title": "Combinatorial Modeling for Combinatorial Optimization",
+		"authors": "Pascal Van Hentenryck",
+		"type": "Invited"
+	},
+	{
+		"year": 2003,
+		"title": "A Generalisation of the Backtracking Algorithm",
+		"authors": "M.R.C. van Dongen",
+		"type": "Papers"
+	},
+	{
+		"year": 2003,
+		"title": "Automated Reformulation of Specifications by Safe Delay Constraints",
+		"authors": "Marco Cadoli and Toni Mancini",
+		"type": "Papers"
+	},
+	{
+		"year": 2003,
+		"title": "Mini Panel",
+		"authors": "The Role of Auxially Variables in Branching Heuristics",
+		"type": "Paper"
+	},
+	{
+		"year": 2003,
+		"title": "Search Strategies for Optimization: Modelling the SONET Problem",
+		"authors": "Barbara M. Smith",
+		"type": "Papers"
+	},
+	{
+		"year": 2003,
+		"title": "Why Channel?  Multiple Viewpoints for Branching Heuristics",
+		"authors": "Brahim Hnich and Toby Walsh",
+		"type": "Papers"
+	},
+	{
+		"year": 2003,
+		"title": "Towards Automatic Modeling of Constraint Satisfaction Problems: A System Based on Compositional Refinement",
+		"authors": "Adam Bakewell, Alan M. Frisch and Ian Miguel",
+		"type": "Poster"
+	},
+	{
+		"year": 2003,
+		"title": "An Empirical Study of Mutual Routing-Scheduling Reformulation\".",
+		"authors": "J. Christopher Beck, Patrick Prosser and Evgeny Selensky",
+		"type": "Poster"
+	},
+	{
+		"year": 2003,
+		"title": "Semi-Automatic Modeling by Constraint Acquisition",
+		"authors": "Remi Coletta, Christian Bessiere, Barry O'Sullivan, Eugene C. Freuder, Sarah O'Connell and Joel Quinqueton",
+		"type": "Poster"
+	},
+	{
+		"year": 2003,
+		"title": "Introducing ESRA, a Relational Language for Modelling Combinatorial Problems",
+		"authors": "Pierre Flener, Justin Pearson, and Magnus Agren",
+		"type": "Poster"
+	},
+	{
+		"year": 2003,
+		"title": "Encoding Connect-4 Using Quantified Boolean Formulae",
+		"authors": "Ian P. Gent and Andrew G. D. Rowley",
+		"type": "Poster"
+	},
+	{
+		"year": 2003,
+		"title": "Preference Constraints: New Global Soft Constraints Dedicated to Preference Binary Relations",
+		"authors": "Remy-Robert Joseph, Peter Chan, Michael Hiroux and Goerges Weil",
+		"type": "Poster"
+	},
+	{
+		"year": 2003,
+		"title": "A Regular Language Membership Constraint for Sequences of Variables",
+		"authors": "Gilles Pesant",
+		"type": "Poster"
+	},
+	{
+		"year": 2003,
+		"title": "Boolean and Pseudo-Boolean Models for Scheduling",
+		"authors": "Steven Prestwich and Colin Quirke",
+		"type": "Poster"
+	},
+	{
+		"year": 2003,
+		"title": "A Reformulation of the Bridge Building Problem as Vehicle Routing",
+		"authors": "Evgeny Selensky",
+		"type": "Poster"
+	},
+	{
+		"year": 2002,
+		"title": "Reformulation: A Practical View",
+		"authors": "Helmut Simonis",
+		"type": "Paper"
+	},
+	{
+		"year": 2002,
+		"title": "Matrix Modelling: Exploiting Common Patterns in Constraint Programming",
+		"authors": "Pierre Flener, Alan M. Frisch, Brahim Hnich, Zeynep Kiziltan, Ian Miguel and Toby Walsh",
+		"type": "Paper"
+	},
+	{
+		"year": 2002,
+		"title": "Towards Model Reformulation at Multiple Levels of Abstraction",
+		"authors": "Alan M. Frisch, Brahim Hnich, Ian Miguel, Barbara M. Smith and Toby Walsh",
+		"type": "Paper"
+	},
+	{
+		"year": 2002,
+		"title": "On the Pruning Behaviour of Minimal Combined Models for Permutation CSPs",
+		"authors": "C.W. Choi and J.H.M. Lee",
+		"type": "Paper"
+	},
+	{
+		"year": 2002,
+		"title": "Algebraic Properties of CSP Model Operators",
+		"authors": "Y.C. Law and J.H.M. Lee",
+		"type": "Paper"
+	},
+	{
+		"year": 2002,
+		"title": "Capturing Constraint Programming Experience: A Case-Based Approach",
+		"authors": "James Little, Cormac Gebruers, Derek Bridge and Eugene Freuder",
+		"type": "Paper"
+	},
+	{
+		"year": 2002,
+		"title": "Automatically Converting SAT Encodings of CSPs",
+		"authors": "Lyndon Drake, Ian Gent and Toby Walsh",
+		"type": "Paper"
+	},
+	{
+		"year": 2001,
+		"title": "Topological Channel Routing Using Constraint Logic Programming",
+		"authors": "Andrew Hughes, Anthony J. Kusalik, and Carl D. McCrosky",
+		"type": "Paper"
+	},
+	{
+		"year": 2001,
+		"title": "First-Solution Search with Symmetry Breaking and Implied Constraints",
+		"authors": "Stephen Prestwich",
+		"type": "Paper"
+	},
+	{
+		"year": 2001,
+		"title": "Symmetry and Implied Constraints in the Steel Mill Slab Design Problem",
+		"authors": "Alan M. Frisch, Ian Miguel, and Toby Walsh",
+		"type": "Paper"
+	},
+	{
+		"year": 2001,
+		"title": "Constraint Programming and Hybrid Formulations for Life",
+		"authors": "Robert Bosch and Michael Trick",
+		"type": "Paper"
+	},
+	{
+		"year": 2001,
+		"title": "Modelling and Problem Forulation: what matters and who cares?",
+		"authors": "Patrick Prosser",
+		"type": "Paper"
+	},
+	{
+		"year": 2001,
+		"title": "A Panel Discussion",
+		"authors": "Ian P. Gent",
+		"type": "Panel"
+	}
+]
