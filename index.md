@@ -25,7 +25,7 @@ Chair. Those serving this role are:
 
 ## Editions
 
-Each ModRef has been co-located with the [CP conference](http://www.a4cp.org/events/cp-conference-series); the host conference is linked below where a page is still available.
+Each ModRef has been co-located with the [CP conference](https://www.a4cp.org/); the host conference is linked below where a page is still available.
 
 - [2026](https://2026.modref.org): The Twenty-Fifth International Workshop — Lisbon, Portugal, 19 July 2026; part of [CP 2026](https://cp2026.a4cp.org/) at [FLoC 2026](https://floc26.org)
 - [2025](https://2025.modref.org): The Twenty-Fourth International Workshop — Glasgow, Scotland; part of [CP 2025](http://cp2025.a4cp.org/)
@@ -38,20 +38,20 @@ Each ModRef has been co-located with the [CP conference](http://www.a4cp.org/eve
 - [2018](https://2018.modref.org): The Seventeenth International Workshop — Lille, France, 27 August 2018; part of [CP 2018](http://cp2018.a4cp.org/)
 - [2017](https://ozgurakgun.github.io/ModRef2017): The Sixteenth International Workshop — Melbourne, Australia; part of [CP 2017](http://cp2017.a4cp.org/)
 - [2016](http://cp2016.a4cp.org/program/workshops/ws-modref16.html): The Fifteenth International Workshop — Toulouse, France; part of [CP 2016](http://cp2016.a4cp.org/)
-- 2015: The Fourteenth International Workshop — Cork, Ireland; part of [CP 2015](https://web.archive.org/web/20180218194104/http://booleconferences.ucc.ie/cp2015/) *(workshop page no longer available)*
-- 2014: The Thirteenth International Workshop — Lyon, France; part of [CP 2014](https://web.archive.org/web/20180321143328/http://cp2014.a4cp.org/) *(workshop page no longer available)*
-- 2013: The Twelfth International Workshop — Uppsala, Sweden; part of [CP 2013](https://web.archive.org/web/20171205190255/http://cp2013.a4cp.org:80/) *(workshop page no longer available)*
+- [2015](http://web.archive.org/web/20160629122436/http://booleconferences.ucc.ie/cp2015workshops/modref): The Fourteenth International Workshop — Cork, Ireland; part of [CP 2015](https://web.archive.org/web/20180218194104/http://booleconferences.ucc.ie/cp2015/) *(archived)*
+- [2014](http://web.archive.org/web/20141015110617/http://cp2014.a4cp.org:80/workshops/modref14): The Thirteenth International Workshop — Lyon, France; part of [CP 2014](https://web.archive.org/web/20180321143328/http://cp2014.a4cp.org/) *(archived)*
+- [2013](http://web.archive.org/web/20140714212300/http://cp2013.a4cp.org/workshops/modref): The Twelfth International Workshop — Uppsala, Sweden; part of [CP 2013](https://web.archive.org/web/20171205190255/http://cp2013.a4cp.org:80/) *(archived)*
 - [2012](http://www.cmears.id.au/modref2012): The Eleventh International Workshop — Quebec City, Canada; part of [CP 2012](http://archive.a4cp.org/cp2012)
-- [2011](http://www-users.cs.york.ac.uk/~frisch/ModRef/11): The Tenth International Workshop — Perugia, Italy; part of [CP 2011](http://www.dmi.unipg.it/cp2011/)
-- [2010](http://www.it.uu.se/research/group/astra/ModRef10): The Ninth International Workshop — St Andrews, Scotland; part of CP 2010
-- [2009](http://www.cs.york.ac.uk/~frisch/ModRef/09): The Eighth International Workshop — Lisbon, Portugal; part of CP 2009
-- [2008](http://www.it.uu.se/research/group/astra/ModRef08): The Seventh International Workshop — Sydney, Australia; part of CP 2008
+- [2011](http://web.archive.org/web/20191023212537/http://www-users.cs.york.ac.uk/~frisch/ModRef/11/): The Tenth International Workshop — Perugia, Italy; part of [CP 2011](http://www.dmi.unipg.it/cp2011/) *(archived)*
+- [2010](http://web.archive.org/web/20140715112219/http://www.it.uu.se/research/group/astra/ModRef10/): The Ninth International Workshop — St Andrews, Scotland; part of CP 2010 *(archived)*
+- 2009: The Eighth International Workshop — Lisbon, Portugal; part of CP 2009 *(workshop page no longer available)*
+- [2008](http://web.archive.org/web/20080609220629/http://www.it.uu.se:80/research/group/astra/ModRef08/): The Seventh International Workshop — Sydney, Australia; part of CP 2008 *(archived)*
 - [2007](http://www.cse.cuhk.edu.hk/~jlee/cp07Model): The Sixth International Workshop — Providence, RI, USA; part of [CP 2007](http://archive.a4cp.org/cp2007/)
-- 2006: The Fifth International Workshop — Nantes, France; part of [CP 2006](http://web.archive.org/web/20110326174836/http://www.sciences.univ-nantes.fr/cp06/) *(workshop page no longer available)*
-- 2005: The Fourth International Workshop on Modelling and Reformulating Constraint Satisfaction Problems — Sitges (Barcelona), Spain; part of CP 2005 *(workshop page no longer available)*
-- [2004](http://www-users.cs.york.ac.uk/~frisch/ModRef/04): The Third International Workshop on Modelling and Reformulating Constraint Satisfaction Problems — Toronto, Canada; part of CP 2004
-- [2003](http://www-users.cs.york.ac.uk/~frisch/ModRef/03): The Second International Workshop on Modelling and Reformulating Constraint Satisfaction Problems — Kinsale, Ireland; part of CP 2003
-- [2002](http://www-users.cs.york.ac.uk/~frisch/ModRef/02): The First International Workshop on Reformulating Constraint Satisfaction Problems — Cornell University, USA; part of CP 2002
+- [2006](http://web.archive.org/web/20060520144559/http://www.cs.ucc.ie:80/cp06/cp06.html): The Fifth International Workshop — Nantes, France; part of [CP 2006](http://web.archive.org/web/20110326174836/http://www.sciences.univ-nantes.fr/cp06/) *(archived)*
+- [2005](http://web.archive.org/web/20060701170706/http://homes.ieu.edu.tr:80/~bhnich/cp05ws/): The Fourth International Workshop on Modelling and Reformulating Constraint Satisfaction Problems — Sitges (Barcelona), Spain; part of CP 2005 *(archived)*
+- [2004](http://web.archive.org/web/20191023212937/http://www-users.cs.york.ac.uk/~frisch/ModRef/04/): The Third International Workshop on Modelling and Reformulating Constraint Satisfaction Problems — Toronto, Canada; part of CP 2004 *(archived)*
+- [2003](http://web.archive.org/web/20191023212511/http://www-users.cs.york.ac.uk/~frisch/ModRef/03/): The Second International Workshop on Modelling and Reformulating Constraint Satisfaction Problems — Kinsale, Ireland; part of CP 2003 *(archived)*
+- [2002](http://web.archive.org/web/20191023214924/http://www-users.cs.york.ac.uk/~frisch/ModRef/02/): The First International Workshop on Reformulating Constraint Satisfaction Problems — Cornell University, USA; part of CP 2002 *(archived)*
 
 ## Significant Antecedents to this Series
 
