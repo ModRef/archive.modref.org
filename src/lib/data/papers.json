@@ -22,8 +22,9 @@
 	{
 		"year": 2026,
 		"title": "Machine Learning-Based Generalization Queries for Constraint Acquisition",
-		"authors": "Dimos Tsouros, Senne Berden, Tias Guns",
-		"type": "Paper"
+	        "authors": "Dimos Tsouros, Senne Berden, Tias Guns",
+    	        "type": "Paper",
+		"paper": "/files/papers/2026/ModRef2026-04-ML-Based-Generalization-Queries-for-Constraint-Acquisition.pdf"
 	},
 	{
 		"year": 2026,
