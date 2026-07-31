@@ -799,19 +799,22 @@
 		"year": 2015,
 		"title": "Back-to-Back Testing a Soft Constraint Model for a Smart Exhibition Space",
 		"authors": "Alexander Schiendorfer, Benedikt Eberhardinger, Michael Wißner, Wolfgang Reif and Elisabeth André",
-		"type": "Paper"
+		"type": "Paper",
+		"paper": "/files/papers/2015/ModRef2015-02-Back-to-Back-Testing-a-Soft-Constraint-Model-for-a-Smart-Exh.pdf"
 	},
 	{
 		"year": 2015,
 		"title": "Automatic solver chaining in MiningZinc",
 		"authors": "Tias Guns, Anton Dries, Guido Tack, Siegfried Nijssen and Luc De Raedt",
-		"type": "Paper"
+		"type": "Paper",
+		"paper": "/files/papers/2015/ModRef2015-03-Automatic-solver-chaining-in-MiningZinc.pdf"
 	},
 	{
 		"year": 2015,
 		"title": "Complex Clustering Using Constraint Programming: Modelling Electoral Map Creation",
 		"authors": "Lars Kotthoff, Barry O'Sullivan, S. S. Ravi and Ian Davidson",
-		"type": "Paper"
+		"type": "Paper",
+		"paper": "/files/papers/2015/ModRef2015-04-Complex-Clustering-Using-Constraint-Programming-Modelling-El.pdf"
 	},
 	{
 		"year": 2015,
@@ -823,7 +826,8 @@
 		"year": 2015,
 		"title": "Transforming Constraint Programs to Input for Local Search",
 		"authors": "Jo Devriendt, Patrick De Causmaecker and Marc Denecker",
-		"type": "Paper"
+		"type": "Paper",
+		"paper": "/files/papers/2015/ModRef2015-06-Transforming-Constraint-Programs-to-Input-for-Local-Search.pdf"
 	},
 	{
 		"year": 2015,
@@ -960,13 +964,15 @@
 		"year": 2012,
 		"title": "Symmetry Declarations for MiniZinc",
 		"authors": "Geoffrey Chu and Peter Stuckey",
-		"type": "Paper"
+		"type": "Paper",
+		"paper": "/files/papers/2012/ModRef2012-01-Symmetry-Declarations-for-MiniZinc.pdf"
 	},
 	{
 		"year": 2012,
 		"title": "MiniZinc with Functions",
 		"authors": "Peter Stuckey and Guido Tack",
-		"type": "Paper"
+		"type": "Paper",
+		"paper": "/files/papers/2012/ModRef2012-02-MiniZinc-with-Functions.pdf"
 	},
 	{
 		"year": 2012,
@@ -984,19 +990,22 @@
 		"year": 2012,
 		"title": "Finding Synchronization Codes to Boost Compression by Substring Enumeration",
 		"authors": "Dany Vohl, Claude-Guy Quimper and Danny Dubé",
-		"type": "Paper"
+		"type": "Paper",
+		"paper": "/files/papers/2012/ModRef2012-05-Finding-Synchronization-Codes-to-Boost-Compression-by-Substr.pdf"
 	},
 	{
 		"year": 2012,
 		"title": "DFA-based formulation for constraint negation",
 		"authors": "Nadjib Lazaar, Noureddine Aribi, Arnaud Gotlieb and Lebbah Yahia",
-		"type": "Paper"
+		"type": "Paper",
+		"paper": "/files/papers/2012/ModRef2012-06-DFA-based-formulation-for-constraint-negation.pdf"
 	},
 	{
 		"year": 2012,
 		"title": "CDF-Intervals Revisited",
 		"authors": "Aya Saad, Carmen Gervet and Thom Fruehwirth",
-		"type": "Paper"
+		"type": "Paper",
+		"paper": "/files/papers/2012/ModRef2012-07-CDF-Intervals-Revisited.pdf"
 	},
 	{
 		"year": 2011,
@@ -1009,7 +1018,8 @@
 		"year": 2011,
 		"title": "Consistency of Constraint Networks Induced by Automaton-Based Constraint Specification",
 		"authors": "Maria Andreina Francisco Rodriguez, Pierre Flener and Justin Pearson",
-		"type": "Paper"
+		"type": "Paper",
+		"paper": "/files/papers/2011/ModRef2011-06-Consistency-of-Constraint-Networks-Induced-by-Automaton-Base.pdf"
 	},
 	{
 		"year": 2011,
@@ -1036,13 +1046,15 @@
 		"year": 2011,
 		"title": "Using the Global Constraint Seeker for Learning Structured Constraint Models: a First Attempt",
 		"authors": "Nicolas Beldiceanu and Helmut Simonis",
-		"type": "Paper"
+		"type": "Paper",
+		"paper": "/files/papers/2011/ModRef2011-07-Using-the-Global-Constraint-Seeker-for-Learning-Structured-C.pdf"
 	},
 	{
 		"year": 2011,
 		"title": "A Reformulation Strategy for Multi-Dimensional CSPs: A Case Study for the SET Game",
 		"authors": "Amanda Swearngin, Berthe Y. Choueiry and Eugene C. Freuder",
-		"type": "Paper"
+		"type": "Paper",
+		"paper": "/files/papers/2011/ModRef2011-08-A-Reformulation-Strategy-for-Multi-Dimensional-CSPs-A-Case-S.pdf"
 	},
 	{
 		"year": 2011,
@@ -1074,13 +1086,15 @@
 		"year": 2011,
 		"title": "Improving the Expressiveness of Table Constraints",
 		"authors": "Jean-Charles Regin",
-		"type": "Paper"
+		"type": "Paper",
+		"paper": "/files/papers/2011/ModRef2011-09-Improving-the-Expressiveness-of-Table-Constraints.pdf"
 	},
 	{
 		"year": 2011,
 		"title": "Global Matrix Constraints",
 		"authors": "George Katsirelos, Nina Narodytska, Claude-Guy Quimper and Toby Walsh",
-		"type": "Paper"
+		"type": "Paper",
+		"paper": "/files/papers/2011/ModRef2011-10-Global-Matrix-Constraints.pdf"
 	},
 	{
 		"year": 2010,
@@ -1206,69 +1220,107 @@
 	},
 	{
 		"year": 2009,
-		"title": "Lessons Learned from Modelling the NHL Playoff Qualification Problem",
-		"authors": "Tyrel Russell, Peter van Beek",
-		"type": "Paper"
+		"title": "Decomposition of the NVALUE constraint",
+		"authors": "Christian Bessiere, George Katsirelos, Nina Narodytska, Claude-Guy Quimper, Toby Walsh",
+		"type": "Paper",
+		"paper": "/files/papers/2009/ModRef2009-01-Decomposition-of-the-NVALUE-constraint.pdf"
+	},
+	{
+		"year": 2009,
+		"title": "Extending Soft Arc Consistency Algorithms to Non-Invertible Semirings with an Application to Multi-Criteria Problems",
+		"authors": "Stefano Bistarelli, Fabio Gadducci, Javier Larrosa, Emma Rollon, Francesco Santini",
+		"type": "Paper",
+		"paper": "/files/papers/2009/ModRef2009-02-Extending-Soft-Arc-Consistency-Algorithms-to-Non-Invertible.pdf"
+	},
+	{
+		"year": 2009,
+		"title": "SIMPLY: a Compiler from a CSP Modeling Language to the SMT-LIB Format",
+		"authors": "Miquel Bofill, Miquel Palahi, Josep Suy, Mateu Villaret",
+		"type": "Paper",
+		"paper": "/files/papers/2009/ModRef2009-03-SIMPLY-a-Compiler-from-a-CSP-Modeling-Language-to-the-SMT-LI.pdf"
+	},
+	{
+		"year": 2009,
+		"title": "Debugging Constraint Models with Metamodels and Metaknowledge",
+		"authors": "Eugene C. Freuder, Richard J. Wallace, Tomas E. Nordlander",
+		"type": "Paper",
+		"paper": "/files/papers/2009/ModRef2009-04-Debugging-Constraint-Models-with-Metamodels-and-Metaknowledg.pdf"
 	},
 	{
 		"year": 2009,
 		"title": "Markov Logic as a Modelling Language for Weighted Constraint Satisfaction Problems",
 		"authors": "Dominik Jain, Paul Maier, Gregor Wylezich",
-		"type": "Paper"
+		"type": "Paper",
+		"paper": "/files/papers/2009/ModRef2009-05-Markov-Logic-as-a-Modelling-Language-for-Weighted-Constraint.pdf"
+	},
+	{
+		"year": 2009,
+		"title": "On the Specification of Search Tree Ordering Heuristics by Pattern Matching in a Rule-Based Modeling Language",
+		"authors": "Julien Martin, Thierry Martinez, François Fages",
+		"type": "Paper",
+		"paper": "/files/papers/2009/ModRef2009-06-On-the-Specification-of-Search-Tree-Ordering-Heuristics-by-P.pdf"
+	},
+	{
+		"year": 2009,
+		"title": "Preprocessing in Pseudo-Boolean Optimization: An Experimental Evaluation",
+		"authors": "Ruben Martins, Ines Lynce, Vasco Manquinho",
+		"type": "Paper",
+		"paper": "/files/papers/2009/ModRef2009-07-Preprocessing-in-Pseudo-Boolean-Optimization-An-Experimental.pdf"
 	},
 	{
 		"year": 2009,
 		"title": "Tractable Benchmarks",
 		"authors": "Justyna Petke, Peter Jeavons",
-		"type": "Paper"
+		"type": "Paper",
+		"paper": "/files/papers/2009/ModRef2009-08-Tractable-Benchmarks.pdf"
+	},
+	{
+		"year": 2009,
+		"title": "The Cost of Flattening with Common Subexpression Elimination",
+		"authors": "Andrea Rendl, Ian Miguel, Ian P. Gent",
+		"type": "Paper",
+		"paper": "/files/papers/2009/ModRef2009-09-The-Cost-of-Flattening-with-Common-Subexpression-Elimination.pdf"
+	},
+	{
+		"year": 2009,
+		"title": "Lessons Learned from Modelling the NHL Playoff Qualification Problem",
+		"authors": "Tyrel Russell, Peter van Beek",
+		"type": "Paper",
+		"paper": "/files/papers/2009/ModRef2009-10-Lessons-Learned-from-Modelling-the-NHL-Playoff-Qualification.pdf"
+	},
+	{
+		"year": 2009,
+		"title": "Comparing Dual Viewpoints in Permutation Problems",
+		"authors": "Barbara M. Smith",
+		"type": "Paper",
+		"paper": "/files/papers/2009/ModRef2009-11-Comparing-Dual-Viewpoints-in-Permutation-Problems.pdf"
+	},
+	{
+		"year": 2009,
+		"title": "The Evolving World of MiniZinc",
+		"authors": "Peter J. Stuckey, Ralph Becket, Sebastian Brand, Mark Brown, Thibaut Feydy, Julien Fischer, Maria Garcia de la Banda, Kim Marriott, Mark Wallace",
+		"type": "Paper",
+		"paper": "/files/papers/2009/ModRef2009-12-The-Evolving-World-of-MiniZinc.pdf"
+	},
+	{
+		"year": 2009,
+		"title": "Monadic Constraint Programming with Gecode",
+		"authors": "Pieter Wuille, Tom Schrijvers",
+		"type": "Paper",
+		"paper": "/files/papers/2009/ModRef2009-13-Monadic-Constraint-Programming-with-Gecode.pdf"
+	},
+	{
+		"year": 2009,
+		"title": "When Can I Get a Quick Shave?",
+		"authors": "Alessandro Zanarini, Gilles Pesant",
+		"type": "Paper",
+		"paper": "/files/papers/2009/ModRef2009-14-When-Can-I-Get-a-Quick-Shave.pdf"
 	},
 	{
 		"year": 2009,
 		"title": "The Utility of Tractable Benchmarks",
 		"authors": "Peter Jeavons, Helmut Simonis, Ian Gent",
 		"type": "Panel Discussion"
-	},
-	{
-		"year": 2009,
-		"title": "Debugging Constraint Models with Metamodels and Metaknowledge",
-		"authors": "Eugene C. Freuder, Richard J. Wallace, Tomas E. Nordlander",
-		"type": "Paper"
-	},
-	{
-		"year": 2009,
-		"title": "Preprocessing in Pseudo-Boolean Optimization: An Experimental Evaluation",
-		"authors": "Ruben Martins, Ines Lynce, Vasco Manquinho",
-		"type": "Paper"
-	},
-	{
-		"year": 2009,
-		"title": "SIMPLY: a Compiler from a CSP Modeling Language to the SMT-LIB Format",
-		"authors": "Miquel Bofill, Miquel Palahi, Josep Suy, Mateu Villaret",
-		"type": "Paper"
-	},
-	{
-		"year": 2009,
-		"title": "Comparing Dual Viewpoints in Permutation Problems",
-		"authors": "Barbara M. Smith",
-		"type": "Paper"
-	},
-	{
-		"year": 2009,
-		"title": "The Evolving World of MiniZinc",
-		"authors": "Peter J. Stuckey, Ralph Becket, Sebastian Brand, Mark Brown, Thibaut Feydy, Julien Fischer, Maria Garcia de la Banda, Kim Marriott, Mark Wallace",
-		"type": "Paper"
-	},
-	{
-		"year": 2009,
-		"title": "Extending Soft Arc Consistency Algorithms to Non-Invertible Semirings with an Application to Multi-Criteria Problems",
-		"authors": "Stefano Bistarelli, Fabio Gadducci, Javier Larrosa, Emma Rollon, Francesco Santini",
-		"type": "Paper"
-	},
-	{
-		"year": 2009,
-		"title": "Monadic Constraint Programming with Gecode",
-		"authors": "Pieter Wuille, Tom Schrijvers",
-		"type": "Paper"
 	},
 	{
 		"year": 2008,
@@ -1378,51 +1430,59 @@
 	},
 	{
 		"year": 2006,
-		"title": "Improved Models for Graceful Graphs",
-		"authors": "Puget, Smith",
-		"type": "Paper"
-	},
-	{
-		"year": 2006,
 		"title": "Mining Historical Data to Build Constraint Viewpoints",
 		"authors": "Bessiere, Quinqueton, Raymond",
-		"type": "Paper"
-	},
-	{
-		"year": 2006,
-		"title": "Generalizing Global Constraints Based on Network Flows",
-		"authors": "Razgon, O'Sullivan, Provan",
-		"type": "Paper"
-	},
-	{
-		"year": 2006,
-		"title": "Why ESSENCE? Frequently Asked Questions About a New Language for Specifying Combinatorial Problems",
-		"authors": "Frisch, Grum, Jefferson, Martinez-Hernandez, Miguel",
-		"type": "Paper"
+		"type": "Paper",
+		"paper": "/files/papers/2006/ModRef2006-01-Mining-Historical-Data-to-Build-Constraint-Viewpoints.pdf"
 	},
 	{
 		"year": 2006,
 		"title": "Strategic Constraint Satisfaction Problems",
 		"authors": "Bessiere, Verger",
-		"type": "Paper"
+		"type": "Paper",
+		"paper": "/files/papers/2006/ModRef2006-02-Strategic-Constraint-Satisfaction-Problems.pdf"
 	},
 	{
 		"year": 2006,
-		"title": "Exploring the Canopy of Constraint Modelling Languages",
-		"authors": "Soto, Granvilliers",
-		"type": "Paper"
+		"title": "Why ESSENCE? Frequently Asked Questions About a New Language for Specifying Combinatorial Problems",
+		"authors": "Frisch, Grum, Jefferson, Martinez-Hernandez, Miguel",
+		"type": "Paper",
+		"paper": "/files/papers/2006/ModRef2006-03-Why-ESSENCE-Frequently-Asked-Questions-About-a-New-Language.pdf"
 	},
 	{
 		"year": 2006,
 		"title": "The Automatic Generation of Redundant Representations and Channelling Constraints",
 		"authors": "Martinez-Hernandez, Frisch",
-		"type": "Paper"
+		"type": "Paper",
+		"paper": "/files/papers/2006/ModRef2006-04-The-Automatic-Generation-of-Redundant-Representations-and-Ch.pdf"
 	},
 	{
 		"year": 2006,
 		"title": "Consistency Reasoning for Removing Constraints and Clauses",
 		"authors": "Prestwich",
-		"type": "Paper"
+		"type": "Paper",
+		"paper": "/files/papers/2006/ModRef2006-05-Consistency-Reasoning-for-Removing-Constraints-and-Clauses.pdf"
+	},
+	{
+		"year": 2006,
+		"title": "Improved Models for Graceful Graphs",
+		"authors": "Puget, Smith",
+		"type": "Paper",
+		"paper": "/files/papers/2006/ModRef2006-06-Improved-Models-for-Graceful-Graphs.pdf"
+	},
+	{
+		"year": 2006,
+		"title": "Generalizing Global Constraints Based on Network Flows",
+		"authors": "Razgon, O'Sullivan, Provan",
+		"type": "Paper",
+		"paper": "/files/papers/2006/ModRef2006-07-Generalizing-Global-Constraints-Based-on-Network-Flows.pdf"
+	},
+	{
+		"year": 2006,
+		"title": "Exploring the Canopy of Constraint Modelling Languages",
+		"authors": "Soto, Granvilliers",
+		"type": "Paper",
+		"paper": "/files/papers/2006/ModRef2006-08-Exploring-the-Canopy-of-Constraint-Modelling-Languages.pdf"
 	},
 	{
 		"year": 2005,
@@ -1580,7 +1640,8 @@
 		"year": 2003,
 		"title": "Automated Reformulation of Specifications by Safe Delay Constraints",
 		"authors": "Marco Cadoli and Toni Mancini",
-		"type": "Papers"
+		"type": "Papers",
+		"paper": "/files/papers/2003/ModRef2003-03-Automated-Reformulation-of-Specifications-by-Safe-Delay-Cons.pdf"
 	},
 	{
 		"year": 2003,
@@ -1592,13 +1653,15 @@
 		"year": 2003,
 		"title": "Search Strategies for Optimization: Modelling the SONET Problem",
 		"authors": "Barbara M. Smith",
-		"type": "Papers"
+		"type": "Papers",
+		"paper": "/files/papers/2003/ModRef2003-05-Search-Strategies-for-Optimization-Modelling-the-SONET-Probl.pdf"
 	},
 	{
 		"year": 2003,
 		"title": "Why Channel?  Multiple Viewpoints for Branching Heuristics",
 		"authors": "Brahim Hnich and Toby Walsh",
-		"type": "Papers"
+		"type": "Papers",
+		"paper": "/files/papers/2003/ModRef2003-06-Why-Channel-Multiple-Viewpoints-for-Branching-Heuristics.pdf"
 	},
 	{
 		"year": 2003,
@@ -1664,13 +1727,15 @@
 		"year": 2002,
 		"title": "Matrix Modelling: Exploiting Common Patterns in Constraint Programming",
 		"authors": "Pierre Flener, Alan M. Frisch, Brahim Hnich, Zeynep Kiziltan, Ian Miguel and Toby Walsh",
-		"type": "Paper"
+		"type": "Paper",
+		"paper": "/files/papers/2002/ModRef2002-02-Matrix-Modelling-Exploiting-Common-Patterns-in-Constraint-Pr.pdf"
 	},
 	{
 		"year": 2002,
 		"title": "Towards Model Reformulation at Multiple Levels of Abstraction",
 		"authors": "Alan M. Frisch, Brahim Hnich, Ian Miguel, Barbara M. Smith and Toby Walsh",
-		"type": "Paper"
+		"type": "Paper",
+		"paper": "/files/papers/2002/ModRef2002-03-Towards-Model-Reformulation-at-Multiple-Levels-of-Abstractio.pdf"
 	},
 	{
 		"year": 2002,
@@ -1682,7 +1747,8 @@
 		"year": 2002,
 		"title": "Algebraic Properties of CSP Model Operators",
 		"authors": "Y.C. Law and J.H.M. Lee",
-		"type": "Paper"
+		"type": "Paper",
+		"paper": "/files/papers/2002/ModRef2002-05-Algebraic-Properties-of-CSP-Model-Operators.pdf"
 	},
 	{
 		"year": 2002,
@@ -1694,7 +1760,8 @@
 		"year": 2002,
 		"title": "Automatically Converting SAT Encodings of CSPs",
 		"authors": "Lyndon Drake, Ian Gent and Toby Walsh",
-		"type": "Paper"
+		"type": "Paper",
+		"paper": "/files/papers/2002/ModRef2002-07-Automatically-Converting-SAT-Encodings-of-CSPs.pdf"
 	},
 	{
 		"year": 2001,

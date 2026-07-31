@@ -41,93 +41,32 @@ Rules:
 ## Missing papers
 
 Papers listed in the contributions data (`src/lib/data/papers.json`) for which we
-have **no file**. Update this
-table as files are recovered. Invited talks, panels, and posters are excluded, as
-they are not regular publications.
+have **no file**. Update this table as files are recovered. Invited talks, panels
+and posters are excluded, as they are not regular publications.
 
-### Years with no files at all
-
-| Year | Papers | Reason |
-|------|-------:|--------|
-| 2001 | 5 | only third-party references survive; no proceedings archived |
-| 2002 | 7 | no proceedings archived |
-| 2003 | 5 | proceedings on the Internet Archive is truncated/corrupt |
-| 2006 | 8 | only the CP 2006 site was archived, without the papers |
-| 2009 | 10 | no workshop-page snapshot exists |
-| 2012 | 7 | workshop page archived without linked papers |
-| 2015 | 6 | paper host offline and never captured by the Internet Archive |
-
-<details><summary>Titles of the missing papers for these years</summary>
-
-**2001**
-- Topological Channel Routing Using Constraint Logic Programming
-- First-Solution Search with Symmetry Breaking and Implied Constraints
-- Symmetry and Implied Constraints in the Steel Mill Slab Design Problem
-- Constraint Programming and Hybrid Formulations for Life
-- Modelling and Problem Forulation: what matters and who cares?
-
-**2002**
-- Reformulation: A Practical View
-- Matrix Modelling: Exploiting Common Patterns in Constraint Programming
-- Towards Model Reformulation at Multiple Levels of Abstraction
-- On the Pruning Behaviour of Minimal Combined Models for Permutation CSPs
-- Algebraic Properties of CSP Model Operators
-- Capturing Constraint Programming Experience: A Case-Based Approach
-- Automatically Converting SAT Encodings of CSPs
-
-**2003**
-- A Generalisation of the Backtracking Algorithm
-- Automated Reformulation of Specifications by Safe Delay Constraints
-- Mini Panel
-- Search Strategies for Optimization: Modelling the SONET Problem
-- Why Channel?  Multiple Viewpoints for Branching Heuristics
-
-**2006**
-- Improved Models for Graceful Graphs
-- Mining Historical Data to Build Constraint Viewpoints
-- Generalizing Global Constraints Based on Network Flows
-- Why ESSENCE? Frequently Asked Questions About a New Language for Specifying Combinatorial Problems
-- Strategic Constraint Satisfaction Problems
-- Exploring the Canopy of Constraint Modelling Languages
-- The Automatic Generation of Redundant Representations and Channelling Constraints
-- Consistency Reasoning for Removing Constraints and Clauses
-
-**2009**
-- Lessons Learned from Modelling the NHL Playoff Qualification Problem
-- Markov Logic as a Modelling Language for Weighted Constraint Satisfaction Problems
-- Tractable Benchmarks
-- Debugging Constraint Models with Metamodels and Metaknowledge
-- Preprocessing in Pseudo-Boolean Optimization: An Experimental Evaluation
-- SIMPLY: a Compiler from a CSP Modeling Language to the SMT-LIB Format
-- Comparing Dual Viewpoints in Permutation Problems
-- The Evolving World of MiniZinc
-- Extending Soft Arc Consistency Algorithms to Non-Invertible Semirings with an Application to Multi-Criteria Problems
-- Monadic Constraint Programming with Gecode
-
-**2012**
-- Symmetry Declarations for MiniZinc
-- MiniZinc with Functions
-- Dual Encoding from Applications into Quantified Boolean Formulas
-- The AtMostSeqCard Revisited
-- Finding Synchronization Codes to Boost Compression by Substring Enumeration
-- DFA-based formulation for constraint negation
-- CDF-Intervals Revisited
-
-**2015**
-- Feasibility of Building Better Traincrew Rosters with Complete Solvers
-- Back-to-Back Testing a Soft Constraint Model for a Smart Exhibition Space
-- Automatic solver chaining in MiningZinc
-- Complex Clustering Using Constraint Programming: Modelling Electoral Map Creation
-- Updated Linearization Library for MiniZinc 2.0
-- Transforming Constraint Programs to Input for Local Search
-
-</details>
-
-### Years partially covered
+**21 regular papers are still missing.** Of these, 9 are from co-located or
+predecessor events rather than ModRef proper (see the notes below), so only
+**12 are missing ModRef papers**.
 
 | Year | Missing | Titles |
 |------|--------:|--------|
+| 2001 | 5 of 5 | Topological Channel Routing Using Constraint Logic Programming; First-Solution Search with Symmetry Breaking and Implied Constraints; Symmetry and Implied Constraints in the Steel Mill Slab Design Problem; Constraint Programming and Hybrid Formulations for Life; Modelling and Problem Forulation: what matters and who cares? |
+| 2002 | 3 of 7 | Reformulation: A Practical View; On the Pruning Behaviour of Minimal Combined Models for Permutation CSPs; Capturing Constraint Programming Experience: A Case-Based Approach |
+| 2003 | 1 of 5 | A Generalisation of the Backtracking Algorithm |
 | 2008 | 4 of 8 | Automatically Detecting Neighbourhood Constraint Interactions using Comet (LSCS'08); Constructive vs Perturbative Local Search for General Integer Linear Programming (LSCS'08); A Versatile Intermediate Language for Answer Set Programming (NMR'08); Generalizing Backdoors (LSCS'08) |
-| 2011 | 6 of 13 | Consistency of Constraint Networks Induced by Automaton-Based Constraint Specification; Using the Global Constraint Seeker for Learning Structured Constraint Models: a First Attempt; A Reformulation Strategy for Multi-Dimensional CSPs: A Case Study for the SET Game; Filtering and Counting for the Spread and Deviation Constraints; Improving the Expressiveness of Table Constraints; Global Matrix Constraints |
+| 2011 | 1 of 8 | Filtering and Counting for the Spread and Deviation Constraints |
+| 2012 | 2 of 7 | Dual Encoding from Applications into Quantified Boolean Formulas; The AtMostSeqCard Revisited |
+| 2015 | 2 of 6 | Feasibility of Building Better Traincrew Rosters with Complete Solvers; Updated Linearization Library for MiniZinc 2.0 |
 | 2017 | 1 of 8 | Towards Compact SMT Encodings for Numeric Planning |
 | 2026 | 1 of 13 | Machine Learning-Based Generalization Queries for Constraint Acquisition |
+
+Notes:
+
+- **2001** is the CP 2001 *Modelling and Problem Formulation* session that ModRef
+  grew out of, not a ModRef edition; only third-party references survive and no
+  proceedings were archived.
+- **2008**'s four missing papers were presented in the co-located LSCS'08 and
+  NMR'08 sessions, so they are not ModRef publications and were never part of the
+  ModRef proceedings.
+- **2012**'s two gaps are the only ones not covered by the 2026 committee
+  recovery round; the rest of that year was recovered from individual copies.
