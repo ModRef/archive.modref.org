@@ -11,7 +11,6 @@ export interface Workshop {
 	conference: Conf; // the CP conference it was co-located with
 	floc?: Conf; // set when CP was part of a FLoC
 	siteUrl?: string; // the edition's own website (may be an archived capture)
-	archivedSite?: boolean; // siteUrl points at the Internet Archive
 	status: 'past' | 'upcoming';
 	cfpOpen?: boolean;
 }

@@ -78,13 +78,7 @@
 		<article class="card" class:no-site={!w.siteUrl}>
 			<span class="yr mono">№ {w.edition}</span>
 			{#if w.siteUrl}
-				<a
-					class="stampwrap stamplink"
-					href={w.siteUrl}
-					title={w.archivedSite
-						? `Archived capture of the ${w.year} site`
-						: `${w.city} ${w.year} website`}
-				>
+				<a class="stampwrap stamplink" href={w.siteUrl} title={`${w.city} ${w.year} website`}>
 					<PostmarkStamp city={w.city} year={w.year} size={128} />
 				</a>
 			{:else}
