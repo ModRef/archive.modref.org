@@ -1178,7 +1178,8 @@
 		"title": "A New SAT Encoding of the At-Most-One Constraint",
 		"authors": "Jingchao Chen",
 		"type": "Paper",
-		"paper": "/files/papers/2010/ModRef2010-11-A-New-SAT-Encoding-of-the-At-Most-One-Constraint.pdf"
+		"paper": "/files/papers/2010/ModRef2010-11-A-New-SAT-Encoding-of-the-At-Most-One-Constraint.pdf",
+		"slides": "/files/slides/2010/ModRef2010-11-A-New-SAT-Encoding-of-the-At-Most-One-Constraint.ppt"
 	},
 	{
 		"year": 2010,
