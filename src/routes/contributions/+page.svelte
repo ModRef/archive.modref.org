@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { onMount } from 'svelte';
 	import papersData from '$lib/data/papers.json';
 	import { workshops } from '$lib/data/workshops';
 	import type { Paper } from '$lib/types';
@@ -24,9 +25,34 @@
 	// only the plain (All types, no query) state browses a single year.
 	const filtering = $derived(searching || type !== 'All');
 
+	// The page is prerendered with the latest edition selected, so read the deep
+	// link once we're in the browser: /contributions/?year=2009 (&q=… to search).
+	// Other ModRef sites link straight to their own year this way.
+	onMount(() => {
+		const p = new URLSearchParams(location.search);
+		const y = Number(p.get('year'));
+		if (years.includes(y)) year = y;
+		const q = p.get('q');
+		if (q) query = q;
+		const t = types.find((x) => x.toLowerCase() === (p.get('type') ?? '').toLowerCase());
+		if (t) type = t;
+	});
+
+	// Keep the address bar in step so any view can be linked to or bookmarked.
+	function syncUrl() {
+		if (typeof location === 'undefined') return;
+		const p = new URLSearchParams();
+		if (query.trim()) p.set('q', query.trim());
+		if (type !== 'All') p.set('type', type);
+		if (!filtering) p.set('year', String(year));
+		const qs = p.toString();
+		history.replaceState(history.state, '', qs ? `?${qs}` : location.pathname);
+	}
+
 	function pickYear(y: number) {
 		year = y;
 		query = '';
+		syncUrl();
 	}
 
 	const results = $derived.by(() => {
@@ -66,11 +92,19 @@
 			type="search"
 			placeholder="Search title or author…"
 			bind:value={query}
+			oninput={syncUrl}
 			aria-label="Search contributions"
 		/>
 		<div class="types" role="group" aria-label="Filter by type">
 			{#each types as t (t)}
-				<button class="mono" class:on={type === t} onclick={() => (type = t)}>{t}</button>
+				<button
+					class="mono"
+					class:on={type === t}
+					onclick={() => {
+						type = t;
+						syncUrl();
+					}}>{t}</button
+				>
 			{/each}
 		</div>
 	</div>
@@ -78,12 +112,13 @@
 	{#if filtering}
 		<p class="status mono">
 			{results.length} result{results.length === 1 ? '' : 's'}
-			{#if searching}for “{query.trim()}” {/if}across all editions ·
+			{#if searching}for “{query.trim()}”{/if} across all editions ·
 			<button
 				class="clear"
 				onclick={() => {
 					query = '';
 					type = 'All';
+					syncUrl();
 				}}>clear</button
 			>
 		</p>

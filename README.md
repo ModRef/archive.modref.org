@@ -41,6 +41,20 @@ pnpm build             # static build → build/
 The contributions list lives in `src/lib/data/papers.json` (edit it directly);
 the editions/history in `src/lib/data/workshops.ts`.
 
+## Linking into `/contributions`
+
+The page opens on the most recent edition, but any view can be addressed
+directly — the year sites use this to link straight at their own papers:
+
+| URL | Opens |
+|---|---|
+| `/contributions/?year=2009` | the 2009 edition |
+| `/contributions/?q=sudoku` | a search across every edition |
+| `/contributions/?type=Invited` | invited talks across every edition |
+
+Unknown or malformed values fall back to the default view. Selecting a year,
+searching, or filtering updates the address bar, so any state can be linked to.
+
 ## Deploy
 
 Pushing to `main` or `develop` runs `.github/workflows/deploy.yml`, which builds
