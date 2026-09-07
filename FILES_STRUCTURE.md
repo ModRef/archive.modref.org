@@ -44,9 +44,9 @@ Papers listed in the contributions data (`src/lib/data/papers.json`) for which w
 have **no file**. Update this table as files are recovered. Invited talks, panels
 and posters are excluded, as they are not regular publications.
 
-**21 regular papers are still missing.** Of these, 9 are from co-located or
+**19 regular papers are still missing.** Of these, 9 are from co-located or
 predecessor events rather than ModRef proper (see the notes below), so only
-**12 are missing ModRef papers**.
+**10 are missing ModRef papers**.
 
 | Year | Missing | Titles |
 |------|--------:|--------|
@@ -58,7 +58,6 @@ predecessor events rather than ModRef proper (see the notes below), so only
 | 2012 | 2 of 7 | Dual Encoding from Applications into Quantified Boolean Formulas; The AtMostSeqCard Revisited |
 | 2015 | 2 of 6 | Feasibility of Building Better Traincrew Rosters with Complete Solvers; Updated Linearization Library for MiniZinc 2.0 |
 | 2017 | 1 of 8 | Towards Compact SMT Encodings for Numeric Planning |
-| 2026 | 1 of 13 | Machine Learning-Based Generalization Queries for Constraint Acquisition |
 
 Notes:
 
